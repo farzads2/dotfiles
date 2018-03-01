@@ -1,0 +1,172 @@
+[2018-02-19T20:07:36] [WARN] Failed to load configuration file /home/farzad/.psensor/psensor.cfg: No such file or directory
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor asus-isa-0000 cpu_fan”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor asus-isa-0000 cpu_fan”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp1”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp1”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp2”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp2”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan1”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan1”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan2”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan2”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan3”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan3”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan4”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan4”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan5”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan5”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 SYSTIN”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 SYSTIN”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 CPUTIN”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 CPUTIN”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 AUXTIN”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 AUXTIN”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PECI Agent 0”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PECI Agent 0”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CHIP_TEMP”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CHIP_TEMP”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CPU_TEMP”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CPU_TEMP”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_MCH_TEMP”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_MCH_TEMP”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Physical id 0”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Physical id 0”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 0”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 0”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 1”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 1”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 2”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 2”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 3”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 3”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 temp”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 temp”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 graphics”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 graphics”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 video”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 video”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 memory”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 memory”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 PCIe”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 PCIe”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan rpm”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan rpm”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan level”
+[2018-02-19T20:07:36] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan level”
+[2018-02-19T20:08:13] [WARN] Failed to load configuration file /home/farzad/.psensor/psensor.cfg: No such file or directory
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor asus-isa-0000 cpu_fan”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor asus-isa-0000 cpu_fan”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp1”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp1”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp2”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor acpitz-virtual-0 temp2”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan1”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan1”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan2”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan2”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan3”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan3”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan4”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan4”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan5”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 fan5”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 SYSTIN”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 SYSTIN”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 CPUTIN”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 CPUTIN”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 AUXTIN”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 AUXTIN”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PECI Agent 0”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PECI Agent 0”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CHIP_TEMP”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CHIP_TEMP”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CPU_TEMP”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_CPU_TEMP”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_MCH_TEMP”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor nct6776-isa-0290 PCH_MCH_TEMP”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Physical id 0”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Physical id 0”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 0”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 0”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 1”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 1”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 2”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 2”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 3”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “lmsensor coretemp-isa-0000 Core 3”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 temp”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 temp”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 graphics”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 graphics”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 video”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 video”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 memory”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 memory”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 PCIe”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl GeForce GTX 970 0 PCIe”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan rpm”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan rpm”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan level”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “nvctrl NVIDIA 0 fan level”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “udisks2 Samsung-SSD-850-EVO-250GB-S22SNXAG960682R”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “udisks2 Samsung-SSD-850-EVO-250GB-S22SNXAG960682R”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “udisks2 ST31000524AS-5VP7QD2Z”
+[2018-02-19T20:08:13] [ERR] Key file does not have group “udisks2 ST31000524AS-5VP7QD2Z”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor asus-isa-0000 cpu_fan”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor asus-isa-0000 cpu_fan”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor acpitz-virtual-0 temp1”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor acpitz-virtual-0 temp1”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor acpitz-virtual-0 temp2”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor acpitz-virtual-0 temp2”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 fan1”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 fan1”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 fan2”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 fan2”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 fan3”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 fan3”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 fan4”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 fan4”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 fan5”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 fan5”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 SYSTIN”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 SYSTIN”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 CPUTIN”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 CPUTIN”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 AUXTIN”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 AUXTIN”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 PECI Agent 0”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 PECI Agent 0”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 PCH_CHIP_TEMP”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 PCH_CHIP_TEMP”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 PCH_CPU_TEMP”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 PCH_CPU_TEMP”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor nct6776-isa-0290 PCH_MCH_TEMP”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor nct6776-isa-0290 PCH_MCH_TEMP”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor coretemp-isa-0000 Physical id 0”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor coretemp-isa-0000 Physical id 0”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor coretemp-isa-0000 Core 0”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor coretemp-isa-0000 Core 0”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor coretemp-isa-0000 Core 1”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor coretemp-isa-0000 Core 1”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor coretemp-isa-0000 Core 2”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor coretemp-isa-0000 Core 2”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “lmsensor coretemp-isa-0000 Core 3”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “lmsensor coretemp-isa-0000 Core 3”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “nvctrl GeForce GTX 970 0 temp”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “nvctrl GeForce GTX 970 0 temp”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “nvctrl GeForce GTX 970 0 graphics”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “nvctrl GeForce GTX 970 0 graphics”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “nvctrl GeForce GTX 970 0 video”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “nvctrl GeForce GTX 970 0 video”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “nvctrl GeForce GTX 970 0 memory”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “nvctrl GeForce GTX 970 0 memory”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “nvctrl GeForce GTX 970 0 PCIe”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “nvctrl GeForce GTX 970 0 PCIe”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “nvctrl NVIDIA 0 fan rpm”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “nvctrl NVIDIA 0 fan rpm”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “nvctrl NVIDIA 0 fan level”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “nvctrl NVIDIA 0 fan level”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “udisks2 Samsung-SSD-850-EVO-250GB-S22SNXAG960682R”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “udisks2 Samsung-SSD-850-EVO-250GB-S22SNXAG960682R”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_high_threshold” in group “udisks2 ST31000524AS-5VP7QD2Z”
+[2018-02-19T20:11:54] [ERR] Key file does not have key “alarm_low_threshold” in group “udisks2 ST31000524AS-5VP7QD2Z”
