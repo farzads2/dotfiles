@@ -1,0 +1,1335 @@
+Feb 12 16:39 : exception: Failed to open /home/farzad/.config/mpd/state: No such file or directory
+Feb 12 16:39 : exception: Failed to access /home/farzad/Music: No such file or directory
+Feb 12 16:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 16:39 : client: [0] opened from [::1]:42670
+Feb 12 16:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 16:42 : client: [0] opened from [::1]:43160
+Feb 12 16:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 16:52 : client: [0] opened from [::1]:53958
+Feb 12 16:53 : avahi: Initializing interface
+Feb 12 16:53 : avahi: Client changed to state 101
+Feb 12 16:53 : avahi: Client is CONNECTING
+Feb 12 16:53 : state_file: Loading state file /home/farzad/.config/mpd/state
+Feb 12 16:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 16:53 : client: [0] opened from [::1]:54106
+Feb 12 16:53 : client: [0] process command "status"
+Feb 12 16:53 : client: [0] command returned 0
+Feb 12 16:53 : client: [0] process command "plchanges "0""
+Feb 12 16:53 : client: [0] command returned 0
+Feb 12 16:53 : client: [0] process command "outputs"
+Feb 12 16:53 : client: [0] command returned 0
+Feb 12 16:53 : client: [0] process command "decoders"
+Feb 12 16:53 : client: [0] command returned 0
+Feb 12 16:53 : client: [0] process command "outputs"
+Feb 12 16:53 : client: [0] command returned 0
+Feb 12 16:53 : client: [0] process command "outputs"
+Feb 12 16:53 : client: [0] command returned 0
+Feb 12 16:53 : client: [0] process command "lsinfo """
+Feb 12 16:53 : client: [0] command returned 0
+Feb 12 16:53 : client: [0] process command "idle"
+Feb 12 16:53 : client: [0] command returned 1
+Feb 12 16:55 : client: [0] process command "volume "-2""
+Feb 12 16:55 : client: [0] command returned 2
+Feb 12 16:55 : client: [0] process command "idle"
+Feb 12 16:55 : client: [0] command returned 1
+Feb 12 16:55 : client: [0] process command "volume "-2""
+Feb 12 16:55 : client: [0] command returned 2
+Feb 12 16:55 : client: [0] process command "idle"
+Feb 12 16:55 : client: [0] command returned 1
+Feb 12 16:55 : client: [0] process command "volume "-2""
+Feb 12 16:55 : client: [0] command returned 2
+Feb 12 16:55 : client: [0] process command "idle"
+Feb 12 16:55 : client: [0] command returned 1
+Feb 12 16:55 : client: [0] process command "volume "-2""
+Feb 12 16:55 : client: [0] command returned 2
+Feb 12 16:55 : client: [0] process command "idle"
+Feb 12 16:55 : client: [0] command returned 1
+Feb 12 16:55 : client: [0] process command "volume "-2""
+Feb 12 16:55 : client: [0] command returned 2
+Feb 12 16:55 : client: [0] process command "idle"
+Feb 12 16:55 : client: [0] command returned 1
+Feb 12 16:55 : client: [0] process command "volume "2""
+Feb 12 16:55 : client: [0] command returned 2
+Feb 12 16:55 : client: [0] process command "idle"
+Feb 12 16:55 : client: [0] command returned 1
+Feb 12 16:55 : client: [0] process command "volume "2""
+Feb 12 16:55 : client: [0] command returned 2
+Feb 12 16:55 : client: [0] process command "idle"
+Feb 12 16:55 : client: [0] command returned 1
+Feb 12 16:55 : state_file: Saving state file /home/farzad/.config/mpd/state
+Feb 12 16:55 : avahi: Shutting down interface
+Feb 12 16:55 : listen: listen_global_finish called
+Feb 12 17:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 17:51 : client: [0] opened from [::1]:46418
+Feb 12 17:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 18:01 : avahi: Initializing interface
+Feb 12 18:01 : avahi: Client changed to state 101
+Feb 12 18:01 : avahi: Client is CONNECTING
+Feb 12 18:01 : state_file: Loading state file /home/farzad/.config/mpd/state
+Feb 12 18:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 18:05 : state_file: Saving state file /home/farzad/.config/mpd/state
+Feb 12 18:05 : avahi: Shutting down interface
+Feb 12 18:05 : listen: listen_global_finish called
+Feb 12 18:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 18:06 : avahi: Initializing interface
+Feb 12 18:06 : avahi: Client changed to state 101
+Feb 12 18:06 : avahi: Client is CONNECTING
+Feb 12 18:06 : state_file: Loading state file /home/farzad/.config/mpd/state
+Feb 12 18:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 18:07 : client: [0] closed
+Feb 12 18:08 : client: [0] opened from 127.0.0.1:37206
+Feb 12 18:08 : client: [0] process command "status"
+Feb 12 18:08 : client: [0] command returned 0
+Feb 12 18:08 : client: [0] process command "plchanges "0""
+Feb 12 18:08 : client: [0] command returned 0
+Feb 12 18:08 : client: [0] process command "outputs"
+Feb 12 18:08 : client: [0] command returned 0
+Feb 12 18:08 : client: [0] process command "decoders"
+Feb 12 18:08 : client: [0] command returned 0
+Feb 12 18:08 : client: [0] process command "outputs"
+Feb 12 18:08 : client: [0] command returned 0
+Feb 12 18:08 : client: [0] process command "outputs"
+Feb 12 18:08 : client: [0] command returned 0
+Feb 12 18:08 : client: [0] process command "idle"
+Feb 12 18:08 : client: [0] command returned 1
+Feb 12 18:08 : client: [0] process command "lsinfo """
+Feb 12 18:08 : client: [0] command returned 0
+Feb 12 18:08 : client: [0] process command "idle"
+Feb 12 18:08 : client: [0] command returned 1
+Feb 12 18:08 : client: [0] closed
+Feb 12 18:11 : client: [1] opened from 127.0.0.1:37592
+Feb 12 18:11 : client: [1] process command "status"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "plchanges "0""
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "outputs"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "decoders"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "outputs"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "outputs"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "lsinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listallinfo """
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listplaylists"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listplaylists"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "listplaylists"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:11 : client: [1] process command "list Artist"
+Feb 12 18:11 : client: [1] command returned 0
+Feb 12 18:11 : client: [1] process command "idle"
+Feb 12 18:11 : client: [1] command returned 1
+Feb 12 18:12 : client: [2] opened from 127.0.0.1:37736
+Feb 12 18:12 : client: [2] process command "GET / HTTP/1.1"
+Feb 12 18:12 : client: [2] command returned 2
+Feb 12 18:12 : client: [2] process command "Host: 127.0.0.1:6600"
+Feb 12 18:12 : client: [2] command returned 3
+Feb 12 18:12 : client: [2] closed
+Feb 12 18:19 : state_file: Saving state file /home/farzad/.config/mpd/state
+Feb 12 18:19 : avahi: Shutting down interface
+Feb 12 18:19 : listen: listen_global_finish called
+Feb 12 18:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 18:19 : client: [0] opened from 127.0.0.1:38608
+Feb 12 18:20 : client: [0] closed
+Feb 12 18:20 : client: [1] opened from 127.0.0.1:38724
+Feb 12 18:23 : client: [1] closed
+Feb 12 18:23 : client: [2] opened from 127.0.0.1:39022
+Feb 12 18:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 18:27 : client: [0] opened from 127.0.0.1:39554
+Feb 12 18:27 : client: [0] closed
+Feb 12 18:27 : client: [1] opened from 127.0.0.1:39598
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3
+Feb 12 18:27 : update: added Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/02-sza-love_galore_(feat_travis_scott).flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/08-sza-garden_(say_it_like_dat).flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/01-sza-supermodel.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/13-sza-pretty_little_birds_(feat_isaiah_rashad).flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/10-sza-anything.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/05-sza-prom.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/11-sza-wavy_(interlude)_(feat_james_fauntleroy).flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/06-sza-the_weekend.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/14-sza-20_something.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/09-sza-broken_clocks.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac
+Feb 12 18:27 : update: added SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/13-st_vincent-smoking_section.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/11-st_vincent-dancing_with_a_ghost.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/12-st_vincent-slow_disco.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/10-st_vincent-young_lover.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac
+Feb 12 18:27 : update: added St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac
+Feb 12 18:27 : update: added Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/06-lcd_soundsystem-tonite.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/07-lcd_soundsystem-call_the_police.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/05-lcd_soundsystem-how_do_you_sleep.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/10-lcd_soundsystem-black_screen.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/03-lcd_soundsystem-i_used_to.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac
+Feb 12 18:27 : update: added LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/04-lcd_soundsystem-change_yr_mind.flac
+Feb 12 18:36 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 12 18:41 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 12 18:44 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 12 18:49 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 12 18:53 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 12 18:59 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 12 19:02 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 12 19:30 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 12 20:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 20:32 : client: [0] opened from 127.0.0.1:32884
+Feb 12 20:59 : client: [0] closed
+Feb 12 20:59 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 12 22:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 22:41 : client: [0] opened from 127.0.0.1:38620
+Feb 12 22:51 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 12 22:53 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 12 22:56 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac"
+Feb 12 22:59 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac"
+Feb 12 23:04 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac"
+Feb 12 23:07 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac"
+Feb 12 23:11 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac"
+Feb 12 23:16 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac"
+Feb 12 23:19 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac"
+Feb 12 23:22 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac"
+Feb 12 23:25 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac"
+Feb 12 23:28 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 12 23:31 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/10-st_vincent-young_lover.flac"
+Feb 12 23:32 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/11-st_vincent-dancing_with_a_ghost.flac"
+                                                                                                                                                                                                       Feb 12 23:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 23:35 : client: [0] opened from 127.0.0.1:47788
+Feb 12 23:35 : client: [1] opened from 127.0.0.1:47792
+Feb 12 23:35 : client: [0] closed
+Feb 12 23:37 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/12-st_vincent-slow_disco.flac"
+Feb 12 23:38 : client: [1] closed
+Feb 12 23:38 : client: [2] opened from 127.0.0.1:48146
+Feb 12 23:41 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/13-st_vincent-smoking_section.flac"
+Feb 12 23:44 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/01-sza-supermodel.flac"
+Feb 12 23:49 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/02-sza-love_galore_(feat_travis_scott).flac"
+Feb 12 23:50 : client: [2] closed
+Feb 12 23:50 : client: [3] opened from 127.0.0.1:49746
+Feb 12 23:53 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac"
+Feb 12 23:53 : client: [3] closed
+Feb 12 23:53 : client: [4] opened from 127.0.0.1:50242
+Feb 12 23:54 : client: [4] closed
+Feb 12 23:54 : client: [5] opened from 127.0.0.1:50414
+Feb 12 23:57 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac"
+Feb 13 00:07 : client: [5] closed
+Feb 13 00:07 : client: [6] opened from 127.0.0.1:52094
+Feb 13 00:36 : client: [6] closed
+Feb 13 00:37 : client: [7] opened from 127.0.0.1:56104
+Feb 13 00:42 : client: [7] closed
+Feb 13 00:42 : client: [8] opened from 127.0.0.1:56700
+Feb 13 00:45 : client: [8] closed
+Feb 13 00:45 : client: [9] opened from 127.0.0.1:57142
+Feb 13 00:48 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 13 00:51 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 13 00:51 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 13 00:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 00:52 : client: [0] opened from 127.0.0.1:33152
+Feb 13 01:00 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 13 08:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 08:20 : client: [0] opened from 127.0.0.1:36140
+Feb 13 08:43 : client: [0] closed
+Feb 13 08:43 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 13 08:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 08:44 : client: [0] opened from 127.0.0.1:58338
+Feb 13 13:03 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 13 13:07 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 13 13:10 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 13 13:13 : avahi: Client Disconnected, will reconnect shortly
+Feb 13 13:13 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 13 13:13 : exception: Failed to open audio output
+Feb 13 13:13 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 13 13:13 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 13 13:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 13:14 : client: [0] opened from 127.0.0.1:48302
+Feb 13 13:31 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 13 13:34 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 13 13:40 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 13 13:43 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 13 16:15 : client: [0] closed
+Feb 13 16:15 : client: [1] opened from 127.0.0.1:52480
+Feb 13 17:01 : client: [1] closed
+Feb 13 17:01 : client: [2] opened from 127.0.0.1:52950
+Feb 13 17:13 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac"
+Feb 13 17:17 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac"
+Feb 13 17:20 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/05-sza-prom.flac"
+Feb 13 17:25 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/06-sza-the_weekend.flac"
+Feb 13 19:35 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 13 19:40 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 13 19:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 19:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 19:40 : client: [0] opened from 127.0.0.1:56350
+Feb 13 19:41 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 13 19:47 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 13 19:53 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 13 19:56 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 13 20:03 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/08-sza-garden_(say_it_like_dat).flac"
+Feb 13 20:06 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/09-sza-broken_clocks.flac"
+Feb 13 20:09 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/10-sza-anything.flac"
+Feb 13 20:10 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/11-sza-wavy_(interlude)_(feat_james_fauntleroy).flac"
+Feb 13 20:14 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac"
+Feb 13 21:52 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/13-sza-pretty_little_birds_(feat_isaiah_rashad).flac"
+Feb 13 21:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 21:53 : client: [0] opened from 127.0.0.1:56800
+Feb 13 21:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 22:00 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 13 22:03 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 13 22:06 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 13 22:11 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 13 22:14 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 13 22:20 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 13 22:23 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 13 22:26 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 13 22:31 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 13 23:35 : client: [0] closed
+Feb 13 23:35 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 13 23:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 23:36 : client: [0] opened from 127.0.0.1:50126
+Feb 14 00:07 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 14 00:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 00:08 : client: [0] opened from 127.0.0.1:60198
+Feb 14 00:25 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 14 00:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 00:39 : client: [0] opened from 127.0.0.1:44586
+Feb 14 00:48 : client: [0] closed
+Feb 14 00:48 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 14 07:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 07:41 : client: [0] opened from 127.0.0.1:40892
+Feb 14 08:50 : client: [0] closed
+Feb 14 08:50 : client: [1] opened from 127.0.0.1:42722
+Feb 14 08:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 08:55 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 14 08:59 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 14 09:02 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 14 09:06 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 14 09:09 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 14 09:15 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 14 09:18 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 14 09:22 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 14 09:27 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 14 09:29 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 14 09:52 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 14 09:55 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 14 11:53 : client: [1] closed
+Feb 14 11:53 : client: [2] opened from 127.0.0.1:46866
+Feb 14 11:56 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 14 11:59 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 14 12:01 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 14 17:21 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 14 17:28 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 14 17:31 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 14 17:34 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 14 17:39 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 14 17:42 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 14 17:48 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 14 17:51 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 14 17:55 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 14 17:59 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 14 18:01 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 14 18:05 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac"
+Feb 14 18:08 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac"
+Feb 14 18:14 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 14 18:21 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/08-sza-garden_(say_it_like_dat).flac"
+Feb 14 18:32 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/09-sza-broken_clocks.flac"
+Feb 14 18:35 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/10-sza-anything.flac"
+Feb 14 18:36 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/11-sza-wavy_(interlude)_(feat_james_fauntleroy).flac"
+Feb 14 18:39 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 14 18:39 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac"
+Feb 14 19:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 19:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 19:49 : client: [0] opened from 127.0.0.1:33316
+Feb 14 19:49 : client: [0] closed
+Feb 14 19:49 : client: [1] opened from 127.0.0.1:33318
+Feb 14 19:50 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac"
+Feb 14 19:56 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac"
+Feb 14 20:00 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/13-sza-pretty_little_birds_(feat_isaiah_rashad).flac"
+Feb 14 20:03 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/14-sza-20_something.flac"
+Feb 14 20:05 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 14 20:09 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 14 20:11 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 14 20:15 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3"
+Feb 14 20:18 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3"
+Feb 14 20:22 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3"
+Feb 14 20:27 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3"
+Feb 14 20:29 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3"
+Feb 14 20:35 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3"
+Feb 14 20:38 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3"
+Feb 14 20:42 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3"
+Feb 14 20:49 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3"
+Feb 14 20:53 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3"
+Feb 14 20:58 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3"
+Feb 14 21:03 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 14 21:10 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 14 21:16 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/03-lcd_soundsystem-i_used_to.flac"
+Feb 14 21:21 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/04-lcd_soundsystem-change_yr_mind.flac"
+Feb 14 21:30 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/05-lcd_soundsystem-how_do_you_sleep.flac"
+Feb 14 21:40 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/06-lcd_soundsystem-tonite.flac"
+Feb 14 21:47 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/07-lcd_soundsystem-call_the_police.flac"
+Feb 14 21:53 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac"
+Feb 14 21:58 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac"
+Feb 14 22:11 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/10-lcd_soundsystem-black_screen.flac"
+Feb 14 22:14 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 14 22:18 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 14 22:21 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 14 22:25 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 14 22:28 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 14 22:34 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 14 22:37 : client: [1] closed
+Feb 14 22:37 : client: [2] opened from 127.0.0.1:33190
+Feb 14 22:37 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 14 22:38 : client: [2] closed
+Feb 14 22:39 : client: [3] opened from 127.0.0.1:33310
+Feb 14 22:40 : client: [3] closed
+Feb 14 22:40 : client: [4] opened from 127.0.0.1:33376
+Feb 14 22:43 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 14 22:47 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 14 22:50 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 14 22:53 : client: [4] closed
+Feb 14 22:53 : client: [5] opened from 127.0.0.1:35116
+Feb 14 22:53 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac"
+Feb 14 22:55 : client: [5] closed
+Feb 14 22:55 : client: [6] opened from 127.0.0.1:36532
+Feb 14 22:56 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac"
+Feb 14 22:58 : client: [6] closed
+Feb 14 22:58 : client: [7] opened from 127.0.0.1:38064
+Feb 14 22:59 : client: [7] closed
+Feb 14 23:00 : client: [8] opened from 127.0.0.1:39562
+Feb 14 23:01 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac"
+Feb 14 23:04 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac"
+Feb 14 23:08 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac"
+Feb 14 23:13 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac"
+Feb 14 23:16 : client: [8] closed
+Feb 14 23:16 : client: [9] opened from 127.0.0.1:41294
+Feb 14 23:16 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac"
+Feb 14 23:19 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac"
+Feb 14 23:22 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac"
+Feb 14 23:41 : client: [9] closed
+Feb 14 23:41 : client: [10] opened from 127.0.0.1:43554
+Feb 14 23:44 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 14 23:45 : client: [10] closed
+Feb 14 23:45 : client: [11] opened from 127.0.0.1:45234
+Feb 14 23:47 : client: [11] closed
+Feb 14 23:48 : client: [12] opened from 127.0.0.1:47004
+Feb 14 23:50 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 14 23:53 : client: [12] closed
+Feb 14 23:53 : client: [13] opened from 127.0.0.1:48680
+Feb 14 23:53 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 14 23:57 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 14 23:58 : client: [13] closed
+Feb 14 23:58 : client: [14] opened from 127.0.0.1:50338
+Feb 15 00:02 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 15 00:05 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 15 00:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 00:06 : client: [0] opened from 127.0.0.1:33394
+Feb 15 00:09 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 15 08:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 08:28 : client: [0] opened from 127.0.0.1:54452
+Feb 15 08:33 : client: [0] closed
+Feb 15 08:33 : client: [1] opened from 127.0.0.1:55838
+Feb 15 08:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 08:36 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 15 08:39 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 15 08:41 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 15 08:45 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3"
+Feb 15 08:48 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3"
+Feb 15 08:52 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3"
+Feb 15 08:57 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3"
+Feb 15 09:09 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3"
+Feb 15 09:14 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3"
+Feb 15 09:18 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3"
+Feb 15 09:22 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3"
+Feb 15 09:29 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3"
+Feb 15 09:33 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3"
+Feb 15 09:37 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3"
+Feb 15 09:43 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 15 09:50 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 15 09:56 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/03-lcd_soundsystem-i_used_to.flac"
+Feb 15 10:00 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/04-lcd_soundsystem-change_yr_mind.flac"
+Feb 15 10:10 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/05-lcd_soundsystem-how_do_you_sleep.flac"
+Feb 15 10:15 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/06-lcd_soundsystem-tonite.flac"
+Feb 15 10:22 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/07-lcd_soundsystem-call_the_police.flac"
+Feb 15 10:29 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac"
+Feb 15 10:29 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 15 10:29 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac"
+Feb 15 11:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 11:53 : client: [0] opened from 127.0.0.1:46190
+Feb 15 11:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 11:59 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac"
+Feb 15 12:11 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/10-lcd_soundsystem-black_screen.flac"
+Feb 15 12:15 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 15 12:18 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 15 12:22 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 15 12:26 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 15 12:29 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 15 12:35 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 15 12:38 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 15 12:42 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 15 12:46 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 15 12:49 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 15 12:52 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac"
+Feb 15 12:55 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac"
+Feb 15 13:00 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac"
+Feb 15 13:03 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac"
+Feb 15 13:07 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac"
+Feb 15 13:12 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac"
+Feb 15 13:15 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac"
+Feb 15 13:18 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac"
+Feb 15 13:21 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac"
+Feb 15 13:23 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 15 13:27 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/10-st_vincent-young_lover.flac"
+Feb 15 13:28 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/11-st_vincent-dancing_with_a_ghost.flac"
+Feb 15 13:30 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/12-st_vincent-slow_disco.flac"
+Feb 15 13:34 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/13-st_vincent-smoking_section.flac"
+Feb 15 13:37 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/01-sza-supermodel.flac"
+Feb 15 13:42 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/02-sza-love_galore_(feat_travis_scott).flac"
+Feb 15 13:46 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 15 13:46 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac"
+Feb 15 19:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 19:38 : client: [0] opened from 127.0.0.1:37970
+Feb 15 19:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 19:38 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac"
+Feb 15 19:57 : client: [0] closed
+Feb 15 19:57 : client: [1] opened from 127.0.0.1:40244
+Feb 15 20:14 : client: [1] closed
+Feb 15 20:14 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac"
+Feb 15 21:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 21:17 : client: [0] opened from 127.0.0.1:60076
+Feb 15 21:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 22:18 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 15 22:21 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 15 23:15 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 15 23:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 23:15 : client: [0] opened from 127.0.0.1:41502
+Feb 16 01:09 : client: [0] closed
+Feb 16 01:09 : client: [1] opened from 127.0.0.1:45926
+Feb 16 01:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 01:16 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 16 01:21 : client: [1] closed
+Feb 16 01:21 : client: [2] opened from 127.0.0.1:47422
+Feb 16 01:23 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 16 01:29 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/03-lcd_soundsystem-i_used_to.flac"
+Feb 16 01:34 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/04-lcd_soundsystem-change_yr_mind.flac"
+Feb 16 01:37 : client: [2] closed
+Feb 16 01:37 : client: [3] opened from 127.0.0.1:49172
+Feb 16 01:38 : client: [3] closed
+Feb 16 01:38 : client: [4] opened from 127.0.0.1:50566
+Feb 16 01:39 : client: [4] closed
+Feb 16 01:39 : client: [5] opened from 127.0.0.1:51880
+Feb 16 01:43 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/05-lcd_soundsystem-how_do_you_sleep.flac"
+Feb 16 01:49 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/06-lcd_soundsystem-tonite.flac"
+Feb 16 01:56 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/07-lcd_soundsystem-call_the_police.flac"
+Feb 16 01:58 : client: [5] closed
+Feb 16 01:58 : client: [6] opened from 127.0.0.1:53508
+Feb 16 01:59 : client: [6] closed
+Feb 16 01:59 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 16 01:59 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac"
+Feb 16 08:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 08:34 : client: [0] opened from 127.0.0.1:51144
+Feb 16 08:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 08:37 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac"
+Feb 16 08:43 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac"
+Feb 16 08:55 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/10-lcd_soundsystem-black_screen.flac"
+Feb 16 08:59 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 16 09:02 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 16 09:05 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 16 09:10 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 16 09:13 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 16 09:19 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 09:25 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 09:31 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 09:37 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 09:43 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 09:49 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 09:56 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:02 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:08 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:14 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:20 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:26 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:32 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:38 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:45 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:51 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 10:57 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 11:03 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 11:09 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 11:37 : client: [0] closed
+Feb 16 11:37 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 12:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 12:19 : client: [0] opened from 127.0.0.1:50250
+Feb 16 12:53 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 15:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 15:15 : client: [0] opened from 127.0.0.1:39262
+Feb 16 16:41 : client: [0] closed
+Feb 16 16:41 : client: [1] opened from 127.0.0.1:40772
+Feb 16 17:27 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 19:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 19:56 : client: [0] opened from 127.0.0.1:56410
+Feb 16 20:37 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 16 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 20:44 : client: [0] opened from 127.0.0.1:38644
+Feb 16 23:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 23:18 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 16 23:21 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 16 23:24 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 16 23:27 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 16 23:30 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 16 23:32 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 16 23:32 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:01 : client: [0] opened from 127.0.0.1:37682
+Feb 17 11:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:03 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:05 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 11:05 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:05 : client: [0] opened from 127.0.0.1:36714
+Feb 17 11:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:07 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:08 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 11:08 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:10 : client: [0] opened from 127.0.0.1:44124
+Feb 17 11:10 : client: [1] opened from 127.0.0.1:44128
+Feb 17 11:10 : client: [0] closed
+Feb 17 11:11 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:49 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 11:49 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:50 : client: [0] opened from 127.0.0.1:34824
+Feb 17 11:50 : client: [1] opened from 127.0.0.1:34842
+Feb 17 11:50 : client: [0] closed
+Feb 17 11:51 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:53 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:55 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 11:55 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 11:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:56 : client: [0] opened from 127.0.0.1:34098
+Feb 17 11:56 : client: [1] opened from 127.0.0.1:34102
+Feb 17 11:56 : client: [0] closed
+Feb 17 11:57 : client: [1] closed
+Feb 17 11:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 11:58 : client: [0] opened from 127.0.0.1:32998
+Feb 17 11:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:01 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:04 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:07 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:10 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:14 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:18 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:20 : client: [0] opened from 127.0.0.1:60060
+Feb 17 12:25 : client: [0] closed
+Feb 17 12:25 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:28 : client: [0] opened from 127.0.0.1:36282
+Feb 17 12:29 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:30 : client: [0] opened from 127.0.0.1:42826
+Feb 17 12:35 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:35 : client: [0] opened from 127.0.0.1:57580
+Feb 17 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:40 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 17 12:41 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 17 12:44 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:47 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:50 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:53 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 12:53 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:55 : client: [0] opened from 127.0.0.1:50922
+Feb 17 12:55 : client: [1] opened from 127.0.0.1:50926
+Feb 17 12:55 : client: [0] closed
+Feb 17 12:55 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 12:55 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 12:55 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 13:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 13:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 13:16 : client: [0] opened from 127.0.0.1:49216
+Feb 17 13:16 : client: [1] opened from 127.0.0.1:49224
+Feb 17 13:16 : client: [0] closed
+Feb 17 13:35 : client: [1] closed
+Feb 17 13:35 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 13:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 13:35 : client: [0] opened from 127.0.0.1:59932
+Feb 17 13:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 13:49 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 13:52 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 13:52 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 13:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 13:53 : client: [0] opened from 127.0.0.1:36086
+Feb 17 13:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 13:56 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 13:59 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 14:02 : client: [0] closed
+Feb 17 14:02 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 17 14:02 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 14:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 14:02 : client: [0] opened from 127.0.0.1:53068
+Feb 17 14:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 14:03 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 14:13 : avahi: Client Disconnected, will reconnect shortly
+Feb 17 14:13 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 17 14:13 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 14:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 14:14 : client: [0] opened from 127.0.0.1:49998
+Feb 17 14:15 : client: [0] closed
+Feb 17 14:16 : client: [1] opened from 127.0.0.1:50088
+Feb 17 14:27 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 15:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 15:52 : client: [0] opened from 127.0.0.1:52964
+Feb 17 17:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 17:18 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 17:46 : client: [0] closed
+Feb 17 17:46 : client: [1] opened from 127.0.0.1:57422
+Feb 17 18:00 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 18:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 18:01 : client: [0] opened from 127.0.0.1:56710
+Feb 17 20:32 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 17 20:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 20:33 : client: [0] opened from 127.0.0.1:44208
+Feb 17 23:48 : client: [0] closed
+Feb 17 23:48 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 09:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 09:50 : client: [0] opened from 127.0.0.1:37606
+Feb 18 10:50 : client: [0] closed
+Feb 18 10:50 : client: [1] opened from 127.0.0.1:38858
+Feb 18 11:43 : client: [1] closed
+Feb 18 11:43 : client: [2] opened from 127.0.0.1:39398
+Feb 18 11:52 : client: [2] closed
+Feb 18 11:52 : client: [3] opened from 127.0.0.1:39520
+Feb 18 11:53 : client: [3] closed
+Feb 18 11:53 : client: [4] opened from 127.0.0.1:39610
+Feb 18 11:55 : client: [4] closed
+Feb 18 11:55 : client: [5] opened from 127.0.0.1:39702
+Feb 18 11:59 : client: [5] closed
+Feb 18 11:59 : client: [6] opened from 127.0.0.1:39812
+Feb 18 12:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 12:40 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 12:43 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 12:46 : client: [6] closed
+Feb 18 12:46 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 12:46 : client: [7] opened from 127.0.0.1:40052
+Feb 18 12:58 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:01 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:04 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:07 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:10 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:13 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:16 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:19 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:22 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:25 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:29 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:32 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:35 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:38 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:41 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:47 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:50 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:53 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:56 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 13:59 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:02 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:05 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:08 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:11 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:14 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:18 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:21 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:24 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:27 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:30 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:33 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:36 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:39 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:42 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:43 : client: [7] closed
+Feb 18 14:43 : client: [8] opened from 127.0.0.1:42258
+Feb 18 14:45 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:49 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 14:51 : client: [8] closed
+Feb 18 14:51 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 18 14:51 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 15:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 15:48 : client: [0] opened from 127.0.0.1:57362
+Feb 18 15:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 15:49 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 15:52 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 15:55 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 15:58 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 16:01 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 16:04 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 16:11 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 18 16:52 : client: [0] closed
+Feb 18 16:52 : client: [1] opened from 127.0.0.1:58368
+Feb 18 16:57 : client: [1] closed
+Feb 18 16:57 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 18 16:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 16:58 : client: [0] opened from 127.0.0.1:45750
+Feb 18 17:04 : client: [0] closed
+Feb 18 17:04 : client: [1] opened from 127.0.0.1:45896
+Feb 18 17:44 : client: [2] opened from 127.0.0.1:46304
+Feb 18 17:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 17:48 : client: [2] closed
+Feb 18 17:50 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 18 17:50 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 18 17:52 : client: [3] opened from 127.0.0.1:46402
+Feb 18 17:54 : client: [3] closed
+Feb 18 17:55 : client: [4] opened from 127.0.0.1:46408
+Feb 18 17:55 : client: [4] closed
+Feb 18 17:56 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 18:12 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 18 18:27 : client: [1] closed
+Feb 18 18:27 : client: [5] opened from 127.0.0.1:47442
+Feb 18 18:29 : client: [5] closed
+Feb 18 18:30 : client: [6] opened from 127.0.0.1:47486
+Feb 18 18:31 : client: [6] closed
+Feb 18 18:31 : client: [7] opened from 127.0.0.1:47498
+Feb 18 18:32 : client: [8] opened from 127.0.0.1:47598
+Feb 18 18:32 : client: [8] closed
+Feb 18 18:37 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3"
+Feb 18 18:41 : client: [9] opened from 127.0.0.1:47738
+Feb 18 18:41 : client: [9] closed
+Feb 18 18:42 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3"
+Feb 18 18:42 : client: [10] opened from 127.0.0.1:47776
+Feb 18 18:42 : client: [10] closed
+Feb 18 18:43 : client: [7] closed
+Feb 18 18:43 : client: [11] opened from 127.0.0.1:47790
+Feb 18 18:43 : client: [11] closed
+Feb 18 18:44 : client: [12] opened from 127.0.0.1:47802
+Feb 18 18:44 : client: [12] closed
+Feb 18 18:44 : client: [13] opened from 127.0.0.1:47810
+Feb 18 18:44 : client: [13] closed
+Feb 18 18:45 : client: [14] opened from 127.0.0.1:47818
+Feb 18 18:45 : client: [14] closed
+Feb 18 18:45 : client: [15] opened from 127.0.0.1:47828
+Feb 18 18:45 : client: [15] closed
+Feb 18 18:46 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3"
+Feb 18 18:46 : client: [16] opened from 127.0.0.1:47838
+Feb 18 18:46 : client: [16] closed
+Feb 18 18:47 : client: [17] opened from 127.0.0.1:47864
+Feb 18 18:47 : client: [17] closed
+Feb 18 18:47 : client: [18] opened from 127.0.0.1:47878
+Feb 18 18:48 : client: [18] closed
+Feb 18 18:48 : client: [19] opened from 127.0.0.1:47884
+Feb 18 18:48 : client: [19] closed
+Feb 18 18:48 : client: [20] opened from 127.0.0.1:47896
+Feb 18 18:48 : client: [20] closed
+Feb 18 18:49 : client: [21] opened from 127.0.0.1:47904
+Feb 18 18:49 : client: [21] closed
+Feb 18 18:49 : client: [22] opened from 127.0.0.1:47914
+Feb 18 18:49 : client: [22] closed
+Feb 18 18:49 : client: [23] opened from 127.0.0.1:47920
+Feb 18 18:50 : client: [23] closed
+Feb 18 18:50 : client: [24] opened from 127.0.0.1:47926
+Feb 18 18:50 : client: [24] closed
+Feb 18 18:50 : client: [25] opened from 127.0.0.1:47944
+Feb 18 18:50 : client: [25] closed
+Feb 18 18:51 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3"
+Feb 18 18:53 : client: [26] opened from 127.0.0.1:47994
+Feb 18 18:53 : client: [26] closed
+Feb 18 18:53 : client: [27] opened from 127.0.0.1:47998
+Feb 18 18:53 : client: [27] closed
+Feb 18 18:54 : client: [28] opened from 127.0.0.1:48002
+Feb 18 18:54 : client: [28] closed
+Feb 18 18:55 : client: [29] opened from 127.0.0.1:48056
+Feb 18 18:55 : client: [29] closed
+Feb 18 18:56 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3"
+Feb 18 19:00 : client: [30] opened from 127.0.0.1:48076
+Feb 18 19:01 : client: [31] opened from 127.0.0.1:48160
+Feb 18 19:01 : client: [31] closed
+Feb 18 19:04 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 19:07 : client: [32] opened from 127.0.0.1:48178
+Feb 18 19:07 : client: [30] closed
+Feb 18 19:07 : client: [32] closed
+Feb 18 19:07 : client: [33] opened from 127.0.0.1:48184
+Feb 18 19:09 : client: [33] closed
+Feb 18 19:09 : client: [34] opened from 127.0.0.1:48284
+Feb 18 19:10 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 18 19:10 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 18 19:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 19:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 19:10 : client: [0] opened from 127.0.0.1:37810
+Feb 18 19:14 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 18 19:15 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 18 19:17 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3"
+Feb 18 19:20 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3"
+Feb 18 19:23 : client: [0] closed
+Feb 18 19:23 : client: [1] opened from 127.0.0.1:38180
+Feb 18 19:23 : client: [1] closed
+Feb 18 19:23 : client: [2] opened from 127.0.0.1:38186
+Feb 18 19:24 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3"
+Feb 18 19:28 : client: [2] closed
+Feb 18 19:28 : client: [3] opened from 127.0.0.1:38308
+Feb 18 19:29 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3"
+Feb 18 19:32 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3"
+Feb 18 19:37 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3"
+Feb 18 19:38 : client: [3] closed
+Feb 18 19:38 : client: [4] opened from 127.0.0.1:38542
+Feb 18 19:38 : client: [4] closed
+Feb 18 19:40 : client: [5] opened from 127.0.0.1:38554
+Feb 18 19:40 : client: [5] closed
+Feb 18 19:43 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3"
+Feb 18 19:45 : client: [6] opened from 127.0.0.1:38588
+Feb 18 19:46 : client: [6] closed
+Feb 18 19:46 : client: [7] opened from 127.0.0.1:38596
+Feb 18 19:47 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3"
+Feb 18 19:54 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3"
+Feb 18 19:58 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3"
+Feb 18 20:02 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3"
+Feb 18 20:08 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 18 20:15 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 18 20:16 : client: [7] closed
+Feb 18 20:16 : client: [8] opened from 127.0.0.1:38944
+Feb 18 20:17 : client: [8] closed
+Feb 18 20:17 : client: [9] opened from 127.0.0.1:38954
+Feb 18 20:19 : client: [9] closed
+Feb 18 20:20 : client: [10] opened from 127.0.0.1:39054
+Feb 18 20:21 : client: [10] closed
+Feb 18 20:21 : client: [11] opened from 127.0.0.1:39062
+Feb 18 20:23 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 18 20:27 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 18 20:30 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 18 20:33 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 18 20:37 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 18 20:40 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 18 20:45 : client: [11] closed
+Feb 18 20:45 : client: [12] opened from 127.0.0.1:40014
+Feb 18 20:46 : client: [12] closed
+Feb 18 20:46 : client: [13] opened from 127.0.0.1:40114
+Feb 18 20:47 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 18 20:49 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 18 20:51 : client: [13] closed
+Feb 18 20:51 : client: [14] opened from 127.0.0.1:40252
+Feb 18 20:53 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 18 20:57 : client: [14] closed
+Feb 18 20:57 : client: [15] opened from 127.0.0.1:40424
+Feb 18 20:58 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 18 21:00 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 18 21:04 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac"
+Feb 18 21:09 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 18 21:12 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 18 21:15 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 18 21:20 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 18 21:22 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 18 21:29 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 18 21:32 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 18 21:35 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 18 23:26 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 18 23:28 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 18 23:32 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac"
+Feb 18 23:35 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac"
+Feb 18 23:40 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac"
+Feb 18 23:43 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac"
+Feb 18 23:47 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac"
+Feb 18 23:52 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac"
+Feb 18 23:55 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac"
+Feb 18 23:58 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac"
+Feb 19 00:01 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac"
+Feb 19 00:03 : client: [15] closed
+Feb 19 00:03 : exception: "pulse audio" [pulse] failed to play: disconnected
+Feb 19 00:03 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 19 08:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 08:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 08:19 : client: [0] opened from 127.0.0.1:57156
+Feb 19 08:19 : client: [1] opened from 127.0.0.1:57162
+Feb 19 08:19 : client: [0] closed
+Feb 19 13:28 : avahi: Client Disconnected, will reconnect shortly
+Feb 19 13:28 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 19 13:28 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 19 13:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 13:28 : client: [0] opened from 127.0.0.1:37464
+Feb 19 14:10 : client: [0] closed
+Feb 19 14:11 : client: [1] opened from 127.0.0.1:38152
+Feb 19 14:13 : client: [1] closed
+Feb 19 14:15 : avahi: Client Disconnected, will reconnect shortly
+Feb 19 14:15 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 19 14:15 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 19 14:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 14:17 : client: [0] opened from 127.0.0.1:42672
+Feb 20 00:26 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 20 00:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 00:41 : client: [0] opened from 127.0.0.1:40010
+Feb 20 00:50 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 20 08:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 08:08 : client: [0] opened from 127.0.0.1:52536
+Feb 20 13:03 : avahi: Client Disconnected, will reconnect shortly
+Feb 20 13:03 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 20 13:03 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 20 14:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 14:06 : client: [0] opened from 127.0.0.1:43990
+Feb 20 16:10 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 20 17:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 17:16 : client: [0] opened from 127.0.0.1:35022
+Feb 20 20:23 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 20 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 21:30 : client: [0] opened from 127.0.0.1:52690
+Feb 20 21:41 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 20 22:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 22:02 : client: [0] opened from 127.0.0.1:52018
+Feb 21 01:49 : client: [0] closed
+Feb 21 01:49 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 21 08:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 08:10 : client: [0] opened from 127.0.0.1:54382
+Feb 21 08:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 08:35 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 21 11:47 : client: [0] closed
+Feb 21 11:47 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 21 15:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 15:48 : client: [0] opened from 127.0.0.1:45876
+Feb 21 17:48 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 21 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 20:14 : client: [0] opened from 127.0.0.1:53946
+Feb 21 22:34 : avahi: Client Disconnected, will reconnect shortly
+Feb 21 22:34 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 21 22:34 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 21 23:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 23:15 : client: [0] opened from 127.0.0.1:58684
+Feb 22 00:57 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 22 08:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 08:23 : client: [0] opened from 127.0.0.1:57854
+Feb 22 12:15 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 22 19:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 19:22 : client: [0] opened from 127.0.0.1:47374
+Feb 22 23:01 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 22 23:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 23:40 : client: [0] opened from 127.0.0.1:42658
+Feb 22 23:58 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 23 00:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 00:05 : client: [0] opened from 127.0.0.1:58466
+Feb 23 00:12 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 23 07:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 07:37 : client: [0] opened from 127.0.0.1:56296
+Feb 23 10:35 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 23 13:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 13:43 : client: [0] opened from 127.0.0.1:45814
+Feb 23 23:32 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 24 08:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 08:19 : client: [0] opened from 127.0.0.1:56466
+Feb 24 13:08 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 24 16:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 16:39 : client: [0] opened from 127.0.0.1:46436
+Feb 24 19:16 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 24 19:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 19:41 : client: [0] opened from 127.0.0.1:41384
+Feb 25 01:17 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 25 09:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 09:06 : client: [0] opened from 127.0.0.1:41590
+Feb 25 16:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 16:37 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 25 16:40 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 25 18:03 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 25 18:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 18:04 : client: [0] opened from 127.0.0.1:55052
+Feb 25 18:05 : avahi: Client Disconnected, will reconnect shortly
+Feb 25 18:05 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 25 18:05 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 25 18:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 18:06 : client: [0] opened from 127.0.0.1:38454
+Feb 25 23:19 : client: [0] closed
+Feb 25 23:19 : avahi: Client Disconnected, will reconnect shortly
+Feb 25 23:19 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 25 23:19 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 26 06:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 06:56 : client: [0] opened from 127.0.0.1:60422
+Feb 26 12:14 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 26 16:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 16:26 : client: [0] opened from 127.0.0.1:38612
+Feb 26 23:04 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 27 07:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 07:21 : client: [0] opened from 127.0.0.1:57164
+Feb 27 07:22 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 27 10:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 10:58 : client: [0] opened from 127.0.0.1:50016
+Feb 27 12:34 : avahi: Client Disconnected, will reconnect shortly
+Feb 27 12:34 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 27 12:34 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 27 12:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 12:39 : client: [0] opened from 127.0.0.1:37456
+Feb 27 12:41 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 27 12:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 12:42 : client: [0] opened from 127.0.0.1:36830
+Feb 27 12:48 : client: [1] opened from 127.0.0.1:37004
+Feb 27 12:48 : client: [1] closed
+Feb 27 12:53 : client: [2] opened from 127.0.0.1:37072
+Feb 27 12:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 12:53 : client: [0] closed
+Feb 27 12:54 : client: [3] opened from 127.0.0.1:37134
+Feb 27 12:55 : client: [3] closed
+Feb 27 12:55 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 27 12:55 : client: [2] closed
+Feb 27 12:57 : client: [4] opened from 127.0.0.1:37146
+Feb 27 12:57 : client: [4] closed
+Feb 27 12:58 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 27 13:01 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Feb 27 13:02 : client: [5] opened from 127.0.0.1:37230
+Feb 27 13:03 : client: [5] closed
+Feb 27 13:03 : client: [6] opened from 127.0.0.1:37234
+Feb 27 13:04 : client: [6] closed
+Feb 27 13:05 : client: [7] opened from 127.0.0.1:37272
+Feb 27 13:05 : client: [7] closed
+Feb 27 13:06 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3"
+Feb 27 13:09 : client: [8] opened from 127.0.0.1:37280
+Feb 27 13:15 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3"
+Feb 27 13:17 : client: [8] closed
+Feb 27 13:18 : client: [9] opened from 127.0.0.1:37374
+Feb 27 13:25 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3"
+Feb 27 13:29 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3"
+Feb 27 13:33 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3"
+Feb 27 13:38 : client: [10] opened from 127.0.0.1:37660
+Feb 27 13:38 : client: [10] closed
+Feb 27 13:39 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 27 13:46 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 27 13:51 : client: [9] closed
+Feb 27 13:51 : client: [11] opened from 127.0.0.1:37874
+Feb 27 13:51 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/03-lcd_soundsystem-i_used_to.flac"
+Feb 27 13:56 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/04-lcd_soundsystem-change_yr_mind.flac"
+Feb 27 14:06 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/05-lcd_soundsystem-how_do_you_sleep.flac"
+Feb 27 14:09 : client: [11] closed
+Feb 27 14:09 : client: [12] opened from 127.0.0.1:38122
+Feb 27 14:11 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/06-lcd_soundsystem-tonite.flac"
+Feb 27 14:18 : client: [12] closed
+Feb 27 14:18 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/07-lcd_soundsystem-call_the_police.flac"
+Feb 27 14:18 : client: [13] opened from 127.0.0.1:38260
+Feb 27 14:24 : client: [13] closed
+Feb 27 14:24 : client: [14] opened from 127.0.0.1:38448
+Feb 27 14:25 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac"
+Feb 27 14:26 : client: [14] closed
+Feb 27 14:26 : client: [15] opened from 127.0.0.1:38570
+Feb 27 14:29 : client: [16] opened from 127.0.0.1:38676
+Feb 27 14:29 : client: [16] closed
+Feb 27 14:30 : client: [17] opened from 127.0.0.1:38680
+Feb 27 14:30 : client: [17] closed
+Feb 27 14:30 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac"
+Feb 27 14:31 : client: [18] opened from 127.0.0.1:38684
+Feb 27 14:31 : client: [18] closed
+Feb 27 14:32 : client: [19] opened from 127.0.0.1:38690
+Feb 27 14:32 : client: [19] closed
+Feb 27 14:39 : client: [15] closed
+Feb 27 14:39 : client: [20] opened from 127.0.0.1:38788
+Feb 27 14:42 : client: [20] closed
+Feb 27 14:42 : client: [21] opened from 127.0.0.1:38892
+Feb 27 14:42 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/10-lcd_soundsystem-black_screen.flac"
+Feb 27 14:46 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac"
+Feb 27 14:46 : client: [21] closed
+Feb 27 14:47 : client: [22] opened from 127.0.0.1:39000
+Feb 27 14:49 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac"
+Feb 27 14:52 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac"
+Feb 27 14:53 : client: [22] closed
+Feb 27 14:54 : client: [23] opened from 127.0.0.1:39164
+Feb 27 14:56 : client: [23] closed
+Feb 27 14:56 : client: [24] opened from 127.0.0.1:39342
+Feb 27 14:57 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac"
+Feb 27 14:57 : client: [24] closed
+Feb 27 14:57 : client: [25] opened from 127.0.0.1:39432
+Feb 27 14:59 : client: [25] closed
+Feb 27 14:59 : client: [26] opened from 127.0.0.1:39546
+Feb 27 15:00 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac"
+Feb 27 15:00 : client: [26] closed
+Feb 27 15:00 : client: [27] opened from 127.0.0.1:39642
+Feb 27 15:01 : client: [28] opened from 127.0.0.1:39732
+Feb 27 15:04 : client: [29] opened from 127.0.0.1:39768
+Feb 27 15:05 : client: [29] closed
+Feb 27 15:06 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac"
+Feb 27 15:06 : client: [30] opened from 127.0.0.1:39772
+Feb 27 15:07 : client: [30] closed
+Feb 27 15:08 : client: [31] opened from 127.0.0.1:39778
+Feb 27 15:08 : client: [31] closed
+Feb 27 15:08 : client: [28] closed
+Feb 27 15:08 : client: [27] closed
+Feb 27 15:08 : client: [32] opened from 127.0.0.1:39796
+Feb 27 15:09 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac"
+Feb 27 15:13 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac"
+Feb 27 15:17 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac"
+Feb 27 15:20 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac"
+Feb 27 15:23 : player: played "Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac"
+Feb 27 15:26 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac"
+Feb 27 15:31 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac"
+Feb 27 15:34 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac"
+Feb 27 15:38 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac"
+Feb 27 15:41 : client: [32] closed
+Feb 27 15:41 : client: [33] opened from 127.0.0.1:40192
+Feb 27 15:43 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac"
+Feb 27 15:46 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac"
+Feb 27 15:49 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac"
+Feb 27 15:52 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac"
+Feb 27 15:54 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac"
+Feb 27 15:58 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/10-st_vincent-young_lover.flac"
+Feb 27 15:59 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/11-st_vincent-dancing_with_a_ghost.flac"
+Feb 27 16:01 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/12-st_vincent-slow_disco.flac"
+Feb 27 16:02 : client: [33] closed
+Feb 27 16:02 : client: [34] opened from 127.0.0.1:40474
+Feb 27 16:05 : player: played "St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/13-st_vincent-smoking_section.flac"
+Feb 27 16:08 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/01-sza-supermodel.flac"
+Feb 27 16:13 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/02-sza-love_galore_(feat_travis_scott).flac"
+Feb 27 16:17 : client: [34] closed
+Feb 27 16:17 : client: [35] opened from 127.0.0.1:41002
+Feb 27 16:17 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac"
+Feb 27 16:21 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac"
+Feb 27 16:24 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/05-sza-prom.flac"
+Feb 27 16:30 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/06-sza-the_weekend.flac"
+Feb 27 16:32 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac"
+Feb 27 16:36 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/08-sza-garden_(say_it_like_dat).flac"
+Feb 27 16:38 : client: [35] closed
+Feb 27 16:38 : client: [36] opened from 127.0.0.1:41452
+Feb 27 16:40 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/09-sza-broken_clocks.flac"
+Feb 27 16:42 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/10-sza-anything.flac"
+Feb 27 16:42 : client: [36] closed
+Feb 27 16:43 : client: [37] opened from 127.0.0.1:41564
+Feb 27 16:44 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/11-sza-wavy_(interlude)_(feat_james_fauntleroy).flac"
+Feb 27 16:46 : client: [37] closed
+Feb 27 16:46 : client: [38] opened from 127.0.0.1:41664
+Feb 27 16:48 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac"
+Feb 27 16:50 : client: [38] closed
+Feb 27 16:50 : client: [39] opened from 127.0.0.1:41760
+Feb 27 16:54 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/01-sza-supermodel.flac"
+Feb 27 16:58 : client: [39] closed
+Feb 27 16:58 : client: [40] opened from 127.0.0.1:41928
+Feb 27 16:59 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/02-sza-love_galore_(feat_travis_scott).flac"
+Feb 27 17:03 : client: [40] closed
+Feb 27 17:03 : client: [41] opened from 127.0.0.1:42066
+Feb 27 17:04 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac"
+Feb 27 17:07 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac"
+Feb 27 17:11 : player: played "SZA-CTRL-CD-FLAC-2017-PERFECT/05-sza-prom.flac"
+Feb 27 17:21 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac"
+Feb 27 18:33 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 27 18:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 18:35 : client: [0] opened from 127.0.0.1:53300
+Feb 27 19:58 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 27 20:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 20:10 : client: [0] opened from 127.0.0.1:35572
+Feb 27 20:10 : avahi: Client Disconnected, will reconnect shortly
+Feb 27 20:10 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 27 20:10 : player: played "LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac"
+Feb 28 12:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 12:16 : client: [0] opened from 127.0.0.1:39760
+Feb 28 16:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 16:21 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Feb 28 21:44 : client: [0] closed
+Feb 28 21:44 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Feb 28 23:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 23:13 : client: [0] opened from 127.0.0.1:56956
+Feb 28 23:28 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Mar 01 07:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 07:38 : client: [0] opened from 127.0.0.1:35846

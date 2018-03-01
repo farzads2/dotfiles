@@ -1,0 +1,77 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 1
+time: 166.045000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3
+1:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3
+2:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3
+3:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3
+4:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3
+5:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3
+6:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3
+7:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3
+8:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3
+9:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3
+10:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3
+11:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3
+12:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3
+13:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3
+14:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac
+15:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac
+16:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/03-lcd_soundsystem-i_used_to.flac
+17:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/04-lcd_soundsystem-change_yr_mind.flac
+18:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/05-lcd_soundsystem-how_do_you_sleep.flac
+19:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/06-lcd_soundsystem-tonite.flac
+20:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/07-lcd_soundsystem-call_the_police.flac
+21:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac
+22:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac
+23:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/10-lcd_soundsystem-black_screen.flac
+24:Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac
+25:Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac
+26:Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac
+27:Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac
+28:Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac
+29:Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac
+30:Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac
+31:Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac
+32:Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac
+33:Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac
+34:Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac
+35:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac
+36:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac
+37:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac
+38:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac
+39:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac
+40:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac
+41:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac
+42:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac
+43:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac
+44:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/10-st_vincent-young_lover.flac
+45:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/11-st_vincent-dancing_with_a_ghost.flac
+46:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/12-st_vincent-slow_disco.flac
+47:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/13-st_vincent-smoking_section.flac
+48:SZA-CTRL-CD-FLAC-2017-PERFECT/01-sza-supermodel.flac
+49:SZA-CTRL-CD-FLAC-2017-PERFECT/02-sza-love_galore_(feat_travis_scott).flac
+50:SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac
+51:SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac
+52:SZA-CTRL-CD-FLAC-2017-PERFECT/05-sza-prom.flac
+53:SZA-CTRL-CD-FLAC-2017-PERFECT/06-sza-the_weekend.flac
+54:SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac
+55:SZA-CTRL-CD-FLAC-2017-PERFECT/08-sza-garden_(say_it_like_dat).flac
+56:SZA-CTRL-CD-FLAC-2017-PERFECT/09-sza-broken_clocks.flac
+57:SZA-CTRL-CD-FLAC-2017-PERFECT/10-sza-anything.flac
+58:SZA-CTRL-CD-FLAC-2017-PERFECT/11-sza-wavy_(interlude)_(feat_james_fauntleroy).flac
+59:SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac
+60:SZA-CTRL-CD-FLAC-2017-PERFECT/13-sza-pretty_little_birds_(feat_isaiah_rashad).flac
+61:SZA-CTRL-CD-FLAC-2017-PERFECT/14-sza-20_something.flac
+playlist_end
