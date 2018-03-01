@@ -1,0 +1,114 @@
+rofi.color-enabled: true
+rofi.font:Fantasque\ Sans\ Mono 11
+!                  bg       border   separator
+rofi.color-window: #282828, #282828, #282828
+
+!                  bg       fg       bg-alt   hl-bg    hl-fg
+rofi.color-normal: #282828, #ebdbb2, #282828, #282828, #458588
+rofi.color-active: #282828, #282828, #282828, #282828, #fabd2f
+rofi.color-urgent: #282828, #282828, #282828, #282828, #cc241d
+
+xterm.borderWidth: 0
+xterm.termName: xterm-256-color
+! URXVT GENERAL CONFIG
+!------------------------------------------------
+URxvt*iconFile: /usr/share/icons/Faenza/apps/32/utilities-terminal.png
+IRC*iconFile: /usr/share/icons/Faenza/apps/32/xchat.png
+URxvt.geometry: 80x22
+! URXVT FONTS
+!------------------------------------------------
+URxvt.font:xft:Monospace:pixelsize=12
+URxvt.boldfont:xft:Monospace-Bold:pixelsize=12
+!Rxvt.font:xft:Lemon:pixelsize=12
+!Rxvt.boldFont:xft:Lemon:bold:pixelsize=12
+!Rxvt.italicfont:xft:Lemon:italic:pixelsize=10
+!Rxvt.bolditalicFont:xft:Lemon:bold:italic:pixelsize=10
+!Rxvt*letterSpace:-1
+!Rxvt*allow_bold: true
+! URXVT FONT SETTINGS
+!------------------------------------------------
+Xft.autohint: true
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+! URXVT ENABLE LINK SUPPORT
+!------------------------------------------------
+URxvt.perl-lib: /home/luca/Documenti/perl/
+URxvt.perl-ext-common: default,matcher,clipboard
+!tabbed
+URxvt.matcher.button: 1
+URxvt.perl-ext: default
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.url-select.launcher: /usr/bin/firefox
+URxvt.url-select.underline: true
+!disable the fucking bell
+URxvt.insecure: false
+! URXVT COPY PASTE SHORTCUTS
+!------------------------------------------------
+!Rxvt.iso14755: False
+!Rxvt.keysym.Shift-Control-C: perl:clipboard:copy
+!Rxvt.keysym.Shift-Control-V: perl:clipboard:paste
+!Rxvt.keysym.M-c: perl:clipboard:copy
+!Rxvt.keysym.M-v: perl:clipboard:paste
+! URXVT SCROLLBAR AND CURSOR STYLE
+!------------------------------------------------
+URxvt*saveLines: 300000
+URxvt.scrollBar: false
+!URxvt*scrollstyle: plain
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+
+! URXVT TABS
+!------------------------------------------------
+URxvt.tabbedex.autohide: yes
+URxvt.tabbedex.tabbar-fg: 2
+URxvt.tabbedex.tabbar-bg: 0
+URxvt.tabbedex.tab-fg: 10
+URxvt.tabbedex.tab-bg: 0
+URxvt.tabbedex.title: yes
+URxvt.tabbedex.new-button: no
+! URXVT FULLSCREEN TOGGLE
+!------------------------------------------------
+URxvt.keysym.F11: perl:fullscreen:switch
+! URXVT COLORS
+!------------------------------------------------
+! vim: set filetype=xdefaults :
+
+! special
+*.foreground: #93a1a1
+*.background: #282828
+*.cursorColor: #93a1a1
+
+! black
+*.color0: #5f5f5f
+*.color8: #828282
+
+! red
+*.color1: #d96468
+*.color9: #d98f93
+
+! green
+*.color2: #a2d964
+*.color10: #b8d98f
+
+! yellow
+*.color3: #d9c964
+*.color11: #d9cf8f
+
+! blue
+*.color4: #64a2d9
+*.color12: #8f99d9
+
+! magenta
+*.color5: #9a64d9
+*.color13: #b08fd9
+
+! cyan
+*.color6: #64d9d5
+*.color14: #8fd9d5
+
+! white
+*.color7: #989898
+*.color15: #c5c5c5
