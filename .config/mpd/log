@@ -1333,3 +1333,75 @@ Feb 28 23:13 : client: [0] opened from 127.0.0.1:56956
 Feb 28 23:28 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
 Mar 01 07:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Mar 01 07:38 : client: [0] opened from 127.0.0.1:35846
+Mar 01 23:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 23:07 : client: [0] opened from 127.0.0.1:46880
+Mar 02 00:25 : client: [0] closed
+Mar 02 00:25 : client: [1] opened from 127.0.0.1:47754
+Mar 02 01:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 01:42 : client: [0] opened from 127.0.0.1:42366
+Mar 02 07:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 07:41 : client: [0] opened from 127.0.0.1:58322
+Mar 02 16:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 16:40 : client: [0] opened from 127.0.0.1:50286
+Mar 02 16:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 16:55 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3"
+Mar 02 16:57 : exception: "pulse audio" [pulse] failed to play: disconnected
+Mar 02 16:57 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3"
+Mar 02 18:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 18:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 18:20 : client: [0] opened from 127.0.0.1:59730
+Mar 02 18:20 : client: [0] closed
+Mar 02 18:20 : client: [1] opened from 127.0.0.1:59736
+Mar 02 18:24 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3"
+Mar 02 18:27 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3"
+Mar 02 18:32 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3"
+Mar 02 18:35 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3"
+Mar 02 18:40 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3"
+Mar 02 18:44 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3"
+Mar 02 18:48 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3"
+Mar 03 00:27 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3"
+Mar 03 07:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 07:22 : client: [0] opened from 127.0.0.1:38942
+Mar 03 11:11 : client: [1] opened from 127.0.0.1:40392
+Mar 03 11:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 11:11 : client: [0] closed
+Mar 03 11:12 : client: [1] closed
+Mar 03 11:13 : client: [2] opened from 127.0.0.1:40396
+Mar 03 11:13 : client: [2] closed
+Mar 03 11:13 : client: [3] opened from 127.0.0.1:40400
+Mar 03 11:13 : client: [3] closed
+Mar 03 11:13 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3"
+Mar 03 11:14 : client: [4] opened from 127.0.0.1:40406
+Mar 03 11:14 : client: [4] closed
+Mar 03 11:14 : client: [5] opened from 127.0.0.1:40410
+Mar 03 11:14 : client: [5] closed
+Mar 03 11:15 : client: [6] opened from 127.0.0.1:40414
+Mar 03 11:15 : client: [6] closed
+Mar 03 11:15 : client: [7] opened from 127.0.0.1:40418
+Mar 03 11:15 : client: [7] closed
+Mar 03 11:15 : client: [8] opened from 127.0.0.1:40424
+Mar 03 11:15 : client: [8] closed
+Mar 03 11:16 : client: [9] opened from 127.0.0.1:40428
+Mar 03 11:16 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3"
+Mar 03 11:16 : client: [9] closed
+Mar 03 11:17 : client: [10] opened from 127.0.0.1:40432
+Mar 03 11:17 : client: [10] closed
+Mar 03 11:17 : client: [11] opened from 127.0.0.1:40436
+Mar 03 11:17 : client: [11] closed
+Mar 03 11:18 : client: [12] opened from 127.0.0.1:40440
+Mar 03 11:18 : client: [12] closed
+Mar 03 11:19 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3"
+Mar 03 11:23 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3"
+Mar 03 11:26 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3"
+Mar 03 11:27 : client: [13] opened from 127.0.0.1:40566
+Mar 03 11:27 : client: [13] closed
+Mar 03 11:30 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3"
+Mar 03 11:32 : client: [14] opened from 127.0.0.1:40600
+Mar 03 11:34 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3"
+Mar 03 11:36 : client: [14] closed
+Mar 03 11:37 : client: [15] opened from 127.0.0.1:40716
+Mar 03 11:37 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3"
+Mar 03 11:43 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3"
+Mar 03 11:46 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3"
+Mar 03 11:50 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3"
+Mar 03 11:57 : player: played "Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3"

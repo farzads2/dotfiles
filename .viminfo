@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/termite
+~MSle0~/feh
 
 # Last Substitute Search Pattern:
 ~MSle0&Mod1
@@ -21,11 +21,11 @@ $$mod
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1519909203,,"q"
+|2,0,1520065448,,"q"
 :wq
-|2,0,1519895615,,"wq"
+|2,0,1520064906,,"wq"
 :q!
-|2,0,1519894386,,"q!"
+|2,0,1519996126,,"q!"
 :ض
 |2,0,1519735353,,"ض"
 :%s/Mod1/$mod/g
@@ -64,6 +64,8 @@ $$mod
 |2,0,1518409310,,"ض!"
 
 # Search String History (newest to oldest):
+?/feh
+|2,1,1520064357,47,"feh"
 ?/copy
 |2,1,1519895322,47,"copy"
 ?/termite
@@ -146,13 +148,70 @@ $$mod
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	#assign [class="Termite"] $workspace3
-|3,0,0,1,1,0,1519737096,"#assign [class=\"Termite\"] $workspace3"
+"0	CHAR	0
+	buffer-age
+|3,0,0,0,1,0,1519933401,"buffer-age"
 "1	LINE	0
-	URxvt.keysym.Shift-Control-V: perl:clipboard:paste
-|3,0,1,1,1,0,1519738325,"URxvt.keysym.Shift-Control-V: perl:clipboard:paste"
+	404: Not Found
+|3,0,1,1,1,0,1520063641,"404: Not Found"
 "2	CHAR	0
+	! Base16 Nord
+	! Scheme: arcticicestudio
+	
+	#define base00 #2e3440
+	#define base01 #3b4252
+	#define base02 #434c5e
+	#define base03 #4c566a
+	#define base04 #d8dee9
+	#define base05 #e5e9f0
+	#define base06 #eceff4
+	#define base07 #8fbcbb
+	#define base08 #88c0d0
+	#define base09 #81a1c1
+	#define base0A #5e81ac
+	#define base0B #bf616a
+	#define base0C #d08770
+	#define base0D #ebcb8b
+	#define base0E #a3be8c
+	#define base0F #b48ead
+	
+	*foreground:   base05
+	#ifdef background_opacity
+	*background:   [background_opacity]base00
+	#else
+	*background:   base00
+	#endif
+	*cursorColor:  base05
+	
+	*color0:       base00
+	*color1:       base08
+	*color2:       base0B
+	*color3:       base0A
+	*color4:       base0D
+	*color5:       base0E
+	*color6:       base0C
+	*color7:       base05
+	
+	*color8:       base03
+	*color9:       base08
+	*color10:      base0B
+	*color11:      base0A
+	*color12:      base0D
+	*color13:      base0E
+	*color14:      base0C
+	*color15:      base07
+	
+	! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+	! use 'shell' template to set these if necessary
+	*color16:      base09
+	*color17:      base0F
+|3,0,2,0,50,0,1520063483,"! Base16 Nord","! Scheme: arcticicestudio","","#define base00 #2e3440","#define base01 #3b4252","#define base02 #434c5e","#define base03 #4c566a","#define base04 #d8dee9","#define base05 #e5e9f0","#define base06 #eceff4","#define base07 #8fbcbb","#define base08 #88c0d0","#define base09 #81a1c1","#define base0A #5e81ac","#define base0B #bf616a","#define base0C #d08770","#define base0D #ebcb8b","#define base0E #a3be8c",>24
+|<"#define base0F #b48ead","","*foreground:   base05","#ifdef background_opacity","*background:   [background_opacity]base00","#else","*background:   base00","#endif","*cursorColor:  base05","","*color0:       base00","*color1:       base08","*color2:       base0B","*color3:       base0A","*color4:       base0D","*color5:       base0E","*color6:       base0C","*color7:       base05","","*color8:       base03","*color9:       base08","*color10:      base0B","*color11:      base0A",>23
+|<"*color12:      base0D","*color13:      base0E","*color14:      base0C","*color15:      base07","","! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),","! use 'shell' template to set these if necessary","*color16:      base09","*color17:      base0F"
+"3	LINE	0
+	URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+|3,0,3,1,1,0,1519738325,"URxvt.keysym.Shift-Control-V: perl:clipboard:paste"
+"4	CHAR	0
 	! ! Pencil light theme
 	! ! Base
 	! *background: #f1f1f1
@@ -203,299 +262,312 @@ $$mod
 	! yellow / orange
 	!*color3: #D75F00
 	!*color11: #D75F00
-|3,0,2,0,50,0,1519737984,"! ! Pencil light theme","! ! Base","! *background: #f1f1f1","! *foreground: #424242","! *cursorColor: #20bbfc","! ! Black","! *color0: #212121","! *color8: #424242","! ! Red","! *color1: #c30771","! *color9: #fb007a","! ! Green","! *color2: #10a778","! *color10: #5fd7af","! ! Yellow","! *color3: #a89c14","! *color11: #f3e430","! ! Blue","! *color4: #008ec4","! *color12: #20bbfc","! ! Magenta","! *color5: #523c79",>21
+|3,0,4,0,50,0,1519737984,"! ! Pencil light theme","! ! Base","! *background: #f1f1f1","! *foreground: #424242","! *cursorColor: #20bbfc","! ! Black","! *color0: #212121","! *color8: #424242","! ! Red","! *color1: #c30771","! *color9: #fb007a","! ! Green","! *color2: #10a778","! *color10: #5fd7af","! ! Yellow","! *color3: #a89c14","! *color11: #f3e430","! ! Blue","! *color4: #008ec4","! *color12: #20bbfc","! ! Magenta","! *color5: #523c79",>21
 |<"! *color13: #6855de","! ! Cyan","! *color6: #20a5ba","! *color14: #4fb8cc","! ! White","! *color7: #d9d9d9","! *color15: #f1f1f1","","! -----------------------------------------------------------------------------","! PaperColor Theme","!*foreground: #323232","!*background: #e3e0d5","","!#EEEEEE","!#e3e0d5","!#93a1a1","! black","!*color0: #EDEDED","!*color8: #969694","! red","!*color1: #D7005F","!*color9: #D7005F","! green","!*color2: #718C00","!*color10: #718C00","! yellow / orange",>19
 |<"!*color3: #D75F00","!*color11: #D75F00"
-"3	LINE	0
+"5	LINE	0
 	#assign [class="Termite"] $workspace3
-|3,0,3,1,1,0,1519737132,"#assign [class=\"Termite\"] $workspace3"
-"4	LINE	0
+|3,0,5,1,1,0,1519737132,"#assign [class=\"Termite\"] $workspace3"
+"6	LINE	0
 	assign [class="URxvt" instance="ncmpcpp"] $workspace3
-|3,0,4,1,1,0,1519737048,"assign [class=\"URxvt\" instance=\"ncmpcpp\"] $workspace3"
-"5	CHAR	0
-	grp:alt_shift_toggle
-	
-|3,0,5,0,2,0,1519726654,"grp:alt_shift_toggle",""
-"6	CHAR	0
-	grp:alt_shift_toggle
-	
-|3,0,6,0,2,0,1519726552,"grp:alt_shift_toggle",""
+|3,0,6,1,1,0,1519737048,"assign [class=\"URxvt\" instance=\"ncmpcpp\"] $workspace3"
 "7	CHAR	0
+	grp:alt_shift_toggle
+	
+|3,0,7,0,2,0,1519726654,"grp:alt_shift_toggle",""
+"8	CHAR	0
+	grp:alt_shift_toggle
+	
+|3,0,8,0,2,0,1519726552,"grp:alt_shift_toggle",""
+"9	CHAR	0
 	compton --config /home/farzad/.config/compton.conf 
 	
-|3,0,7,0,2,0,1518974775,"compton --config /home/farzad/.config/compton.conf ",""
-"8	LINE	0
-	rofi.color-normal: argb: 00000000, #DEDEDE, argb: 00000000, #DEDEDE
-|3,0,8,1,1,0,1518973730,"rofi.color-normal: argb: 00000000, #DEDEDE, argb: 00000000, #DEDEDE"
-"9	LINE	0
-	rofi.color-window: argb: EE000000, argb: EE000000, argb: EE000000
-|3,0,9,1,1,0,1518973727,"rofi.color-window: argb: EE000000, argb: EE000000, argb: EE000000"
-"-	CHAR	0
-	*
-|3,0,36,0,1,0,1519894936,"*"
+|3,0,9,0,2,0,1518974775,"compton --config /home/farzad/.config/compton.conf ",""
+""-	CHAR	0
+	2
+|3,1,36,0,1,0,1520064899,"2"
 
 # File marks:
-'0  227  22  ~/.config/compton.conf
-|4,48,227,22,1519909203,"~/.config/compton.conf"
-'1  22  0  ~/.Xresources
-|4,49,22,0,1519905856,"~/.Xresources"
-'2  2  0  ~/.git/info/exclude
-|4,50,2,0,1519895615,"~/.git/info/exclude"
-'3  515  0  ~/.config/ranger/rc.conf
-|4,51,515,0,1519895432,"~/.config/ranger/rc.conf"
-'4  1  0  /etc/ranger/config/rc.conf
-|4,52,1,0,1519895128,"/etc/ranger/config/rc.conf"
-'5  1  0  ~/.config/base16-shell/.git/refs/heads/master
-|4,53,1,0,1519894610,"~/.config/base16-shell/.git/refs/heads/master"
-'6  1  0  ~/.git/info/exclude
-|4,54,1,0,1519894386,"~/.git/info/exclude"
-'7  1  0  ~/.git/info/exclude
-|4,55,1,0,1519894386,"~/.git/info/exclude"
-'8  1  0  ~/.git/info/exclude
-|4,56,1,0,1519891089,"~/.git/info/exclude"
-'9  1  0  ~/.git/info/exclude
-|4,57,1,0,1519891089,"~/.git/info/exclude"
+'0  63  0  ~/.Xresources
+|4,48,63,0,1520065448,"~/.Xresources"
+'1  40  12  ~/.config/i3/i3blocks.conf
+|4,49,40,12,1520064906,"~/.config/i3/i3blocks.conf"
+'2  270  29  ~/.config/i3/config
+|4,50,270,29,1520064381,"~/.config/i3/config"
+'3  78  0  ~/.Xresources
+|4,51,78,0,1520063652,"~/.Xresources"
+'4  78  0  ~/.Xresources
+|4,52,78,0,1520063652,"~/.Xresources"
+'5  59  0  ~/.Xresources
+|4,53,59,0,1520063487,"~/.Xresources"
+'6  59  0  ~/.Xresources
+|4,54,59,0,1520063487,"~/.Xresources"
+'7  59  0  ~/.Xresources
+|4,55,59,0,1520063487,"~/.Xresources"
+'8  59  0  ~/.Xresources
+|4,56,59,0,1520063487,"~/.Xresources"
+'9  12  50  ~/.bashrc
+|4,57,12,50,1520063419,"~/.bashrc"
 
 # Jumplist (newest first):
--'  227  22  ~/.config/compton.conf
-|4,39,227,22,1519909203,"~/.config/compton.conf"
--'  36  0  ~/.config/compton.conf
-|4,39,36,0,1519909094,"~/.config/compton.conf"
--'  233  0  ~/.config/compton.conf
-|4,39,233,0,1519909090,"~/.config/compton.conf"
--'  57  0  ~/.config/compton.conf
-|4,39,57,0,1519909062,"~/.config/compton.conf"
--'  66  0  ~/.config/compton.conf
-|4,39,66,0,1519909025,"~/.config/compton.conf"
--'  1  0  ~/.config/compton.conf
-|4,39,1,0,1519909011,"~/.config/compton.conf"
--'  73  19  ~/.config/compton.conf
-|4,39,73,19,1519908996,"~/.config/compton.conf"
+-'  63  0  ~/.Xresources
+|4,39,63,0,1520065448,"~/.Xresources"
+-'  40  12  ~/.config/i3/i3blocks.conf
+|4,39,40,12,1520064906,"~/.config/i3/i3blocks.conf"
+-'  34  0  ~/.config/i3/i3blocks.conf
+|4,39,34,0,1520064868,"~/.config/i3/i3blocks.conf"
+-'  78  0  ~/.Xresources
+|4,39,78,0,1520064757,"~/.Xresources"
+-'  270  29  ~/.config/i3/config
+|4,39,270,29,1520064381,"~/.config/i3/config"
+-'  270  29  ~/.config/i3/config
+|4,39,270,29,1520064381,"~/.config/i3/config"
+-'  270  29  ~/.config/i3/config
+|4,39,270,29,1520064381,"~/.config/i3/config"
+-'  43  0  ~/.config/i3/config
+|4,39,43,0,1520064357,"~/.config/i3/config"
+-'  43  0  ~/.config/i3/config
+|4,39,43,0,1520064357,"~/.config/i3/config"
+-'  43  0  ~/.config/i3/config
+|4,39,43,0,1520064357,"~/.config/i3/config"
+-'  42  29  ~/.config/i3/config
+|4,39,42,29,1520064348,"~/.config/i3/config"
+-'  42  29  ~/.config/i3/config
+|4,39,42,29,1520064348,"~/.config/i3/config"
+-'  42  29  ~/.config/i3/config
+|4,39,42,29,1520064348,"~/.config/i3/config"
+-'  78  0  ~/.Xresources
+|4,39,78,0,1520063652,"~/.Xresources"
+-'  78  0  ~/.Xresources
+|4,39,78,0,1520063652,"~/.Xresources"
+-'  78  0  ~/.Xresources
+|4,39,78,0,1520063652,"~/.Xresources"
+-'  78  0  ~/.Xresources
+|4,39,78,0,1520063652,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063632,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063632,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063632,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063632,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063632,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063487,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063487,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063487,"~/.Xresources"
+-'  59  0  ~/.Xresources
+|4,39,59,0,1520063487,"~/.Xresources"
 -'  22  0  ~/.Xresources
-|4,39,22,0,1519905856,"~/.Xresources"
+|4,39,22,0,1520063473,"~/.Xresources"
 -'  22  0  ~/.Xresources
-|4,39,22,0,1519905856,"~/.Xresources"
--'  23  0  ~/.Xresources
-|4,39,23,0,1519904521,"~/.Xresources"
--'  23  0  ~/.Xresources
-|4,39,23,0,1519904521,"~/.Xresources"
--'  2  0  ~/.git/info/exclude
-|4,39,2,0,1519895615,"~/.git/info/exclude"
--'  2  0  ~/.git/info/exclude
-|4,39,2,0,1519895615,"~/.git/info/exclude"
--'  2  0  ~/.git/info/exclude
-|4,39,2,0,1519895615,"~/.git/info/exclude"
--'  2  0  ~/.git/info/exclude
-|4,39,2,0,1519895615,"~/.git/info/exclude"
--'  515  0  ~/.config/ranger/rc.conf
-|4,39,515,0,1519895432,"~/.config/ranger/rc.conf"
--'  515  0  ~/.config/ranger/rc.conf
-|4,39,515,0,1519895432,"~/.config/ranger/rc.conf"
--'  515  0  ~/.config/ranger/rc.conf
-|4,39,515,0,1519895432,"~/.config/ranger/rc.conf"
--'  515  0  ~/.config/ranger/rc.conf
-|4,39,515,0,1519895432,"~/.config/ranger/rc.conf"
--'  443  16  ~/.config/ranger/rc.conf
-|4,39,443,16,1519895429,"~/.config/ranger/rc.conf"
--'  443  16  ~/.config/ranger/rc.conf
-|4,39,443,16,1519895429,"~/.config/ranger/rc.conf"
--'  443  16  ~/.config/ranger/rc.conf
-|4,39,443,16,1519895429,"~/.config/ranger/rc.conf"
--'  443  16  ~/.config/ranger/rc.conf
-|4,39,443,16,1519895429,"~/.config/ranger/rc.conf"
--'  442  16  ~/.config/ranger/rc.conf
-|4,39,442,16,1519895428,"~/.config/ranger/rc.conf"
--'  441  16  ~/.config/ranger/rc.conf
-|4,39,441,16,1519895428,"~/.config/ranger/rc.conf"
--'  442  16  ~/.config/ranger/rc.conf
-|4,39,442,16,1519895428,"~/.config/ranger/rc.conf"
--'  441  16  ~/.config/ranger/rc.conf
-|4,39,441,16,1519895428,"~/.config/ranger/rc.conf"
--'  442  16  ~/.config/ranger/rc.conf
-|4,39,442,16,1519895428,"~/.config/ranger/rc.conf"
--'  441  16  ~/.config/ranger/rc.conf
-|4,39,441,16,1519895428,"~/.config/ranger/rc.conf"
--'  442  16  ~/.config/ranger/rc.conf
-|4,39,442,16,1519895428,"~/.config/ranger/rc.conf"
--'  441  16  ~/.config/ranger/rc.conf
-|4,39,441,16,1519895428,"~/.config/ranger/rc.conf"
--'  440  16  ~/.config/ranger/rc.conf
-|4,39,440,16,1519895425,"~/.config/ranger/rc.conf"
--'  440  16  ~/.config/ranger/rc.conf
-|4,39,440,16,1519895425,"~/.config/ranger/rc.conf"
--'  440  16  ~/.config/ranger/rc.conf
-|4,39,440,16,1519895425,"~/.config/ranger/rc.conf"
--'  440  16  ~/.config/ranger/rc.conf
-|4,39,440,16,1519895425,"~/.config/ranger/rc.conf"
--'  433  7  ~/.config/ranger/rc.conf
-|4,39,433,7,1519895416,"~/.config/ranger/rc.conf"
--'  432  7  ~/.config/ranger/rc.conf
-|4,39,432,7,1519895416,"~/.config/ranger/rc.conf"
--'  433  7  ~/.config/ranger/rc.conf
-|4,39,433,7,1519895416,"~/.config/ranger/rc.conf"
--'  432  7  ~/.config/ranger/rc.conf
-|4,39,432,7,1519895416,"~/.config/ranger/rc.conf"
--'  433  7  ~/.config/ranger/rc.conf
-|4,39,433,7,1519895416,"~/.config/ranger/rc.conf"
--'  432  7  ~/.config/ranger/rc.conf
-|4,39,432,7,1519895416,"~/.config/ranger/rc.conf"
--'  433  7  ~/.config/ranger/rc.conf
-|4,39,433,7,1519895416,"~/.config/ranger/rc.conf"
--'  432  7  ~/.config/ranger/rc.conf
-|4,39,432,7,1519895416,"~/.config/ranger/rc.conf"
--'  431  7  ~/.config/ranger/rc.conf
-|4,39,431,7,1519895415,"~/.config/ranger/rc.conf"
--'  429  7  ~/.config/ranger/rc.conf
-|4,39,429,7,1519895415,"~/.config/ranger/rc.conf"
--'  431  7  ~/.config/ranger/rc.conf
-|4,39,431,7,1519895415,"~/.config/ranger/rc.conf"
--'  429  7  ~/.config/ranger/rc.conf
-|4,39,429,7,1519895415,"~/.config/ranger/rc.conf"
--'  431  7  ~/.config/ranger/rc.conf
-|4,39,431,7,1519895415,"~/.config/ranger/rc.conf"
--'  429  7  ~/.config/ranger/rc.conf
-|4,39,429,7,1519895415,"~/.config/ranger/rc.conf"
--'  431  7  ~/.config/ranger/rc.conf
-|4,39,431,7,1519895415,"~/.config/ranger/rc.conf"
--'  429  7  ~/.config/ranger/rc.conf
-|4,39,429,7,1519895415,"~/.config/ranger/rc.conf"
--'  369  0  ~/.config/ranger/rc.conf
-|4,39,369,0,1519895413,"~/.config/ranger/rc.conf"
--'  368  0  ~/.config/ranger/rc.conf
-|4,39,368,0,1519895413,"~/.config/ranger/rc.conf"
--'  369  0  ~/.config/ranger/rc.conf
-|4,39,369,0,1519895413,"~/.config/ranger/rc.conf"
--'  368  0  ~/.config/ranger/rc.conf
-|4,39,368,0,1519895413,"~/.config/ranger/rc.conf"
--'  369  0  ~/.config/ranger/rc.conf
-|4,39,369,0,1519895413,"~/.config/ranger/rc.conf"
--'  368  0  ~/.config/ranger/rc.conf
-|4,39,368,0,1519895413,"~/.config/ranger/rc.conf"
--'  369  0  ~/.config/ranger/rc.conf
-|4,39,369,0,1519895413,"~/.config/ranger/rc.conf"
--'  368  0  ~/.config/ranger/rc.conf
-|4,39,368,0,1519895413,"~/.config/ranger/rc.conf"
--'  364  0  ~/.config/ranger/rc.conf
-|4,39,364,0,1519895411,"~/.config/ranger/rc.conf"
--'  363  0  ~/.config/ranger/rc.conf
-|4,39,363,0,1519895411,"~/.config/ranger/rc.conf"
--'  364  0  ~/.config/ranger/rc.conf
-|4,39,364,0,1519895411,"~/.config/ranger/rc.conf"
--'  363  0  ~/.config/ranger/rc.conf
-|4,39,363,0,1519895411,"~/.config/ranger/rc.conf"
--'  364  0  ~/.config/ranger/rc.conf
-|4,39,364,0,1519895411,"~/.config/ranger/rc.conf"
--'  363  0  ~/.config/ranger/rc.conf
-|4,39,363,0,1519895411,"~/.config/ranger/rc.conf"
--'  364  0  ~/.config/ranger/rc.conf
-|4,39,364,0,1519895411,"~/.config/ranger/rc.conf"
--'  363  0  ~/.config/ranger/rc.conf
-|4,39,363,0,1519895411,"~/.config/ranger/rc.conf"
--'  362  0  ~/.config/ranger/rc.conf
-|4,39,362,0,1519895410,"~/.config/ranger/rc.conf"
--'  361  0  ~/.config/ranger/rc.conf
-|4,39,361,0,1519895410,"~/.config/ranger/rc.conf"
--'  360  0  ~/.config/ranger/rc.conf
-|4,39,360,0,1519895410,"~/.config/ranger/rc.conf"
--'  359  0  ~/.config/ranger/rc.conf
-|4,39,359,0,1519895410,"~/.config/ranger/rc.conf"
--'  362  0  ~/.config/ranger/rc.conf
-|4,39,362,0,1519895410,"~/.config/ranger/rc.conf"
--'  361  0  ~/.config/ranger/rc.conf
-|4,39,361,0,1519895410,"~/.config/ranger/rc.conf"
--'  360  0  ~/.config/ranger/rc.conf
-|4,39,360,0,1519895410,"~/.config/ranger/rc.conf"
--'  359  0  ~/.config/ranger/rc.conf
-|4,39,359,0,1519895410,"~/.config/ranger/rc.conf"
--'  362  0  ~/.config/ranger/rc.conf
-|4,39,362,0,1519895410,"~/.config/ranger/rc.conf"
--'  361  0  ~/.config/ranger/rc.conf
-|4,39,361,0,1519895410,"~/.config/ranger/rc.conf"
--'  360  0  ~/.config/ranger/rc.conf
-|4,39,360,0,1519895410,"~/.config/ranger/rc.conf"
--'  359  0  ~/.config/ranger/rc.conf
-|4,39,359,0,1519895410,"~/.config/ranger/rc.conf"
--'  362  0  ~/.config/ranger/rc.conf
-|4,39,362,0,1519895410,"~/.config/ranger/rc.conf"
--'  361  0  ~/.config/ranger/rc.conf
-|4,39,361,0,1519895410,"~/.config/ranger/rc.conf"
--'  360  0  ~/.config/ranger/rc.conf
-|4,39,360,0,1519895410,"~/.config/ranger/rc.conf"
--'  359  0  ~/.config/ranger/rc.conf
-|4,39,359,0,1519895410,"~/.config/ranger/rc.conf"
--'  358  0  ~/.config/ranger/rc.conf
-|4,39,358,0,1519895409,"~/.config/ranger/rc.conf"
--'  357  0  ~/.config/ranger/rc.conf
-|4,39,357,0,1519895409,"~/.config/ranger/rc.conf"
--'  358  0  ~/.config/ranger/rc.conf
-|4,39,358,0,1519895409,"~/.config/ranger/rc.conf"
--'  357  0  ~/.config/ranger/rc.conf
-|4,39,357,0,1519895409,"~/.config/ranger/rc.conf"
--'  358  0  ~/.config/ranger/rc.conf
-|4,39,358,0,1519895409,"~/.config/ranger/rc.conf"
--'  357  0  ~/.config/ranger/rc.conf
-|4,39,357,0,1519895409,"~/.config/ranger/rc.conf"
--'  358  0  ~/.config/ranger/rc.conf
-|4,39,358,0,1519895409,"~/.config/ranger/rc.conf"
--'  357  0  ~/.config/ranger/rc.conf
-|4,39,357,0,1519895409,"~/.config/ranger/rc.conf"
--'  337  9  ~/.config/ranger/rc.conf
-|4,39,337,9,1519895408,"~/.config/ranger/rc.conf"
--'  288  0  ~/.config/ranger/rc.conf
-|4,39,288,0,1519895408,"~/.config/ranger/rc.conf"
--'  337  9  ~/.config/ranger/rc.conf
-|4,39,337,9,1519895408,"~/.config/ranger/rc.conf"
--'  288  0  ~/.config/ranger/rc.conf
-|4,39,288,0,1519895408,"~/.config/ranger/rc.conf"
--'  337  9  ~/.config/ranger/rc.conf
-|4,39,337,9,1519895408,"~/.config/ranger/rc.conf"
--'  288  0  ~/.config/ranger/rc.conf
-|4,39,288,0,1519895408,"~/.config/ranger/rc.conf"
--'  337  9  ~/.config/ranger/rc.conf
-|4,39,337,9,1519895408,"~/.config/ranger/rc.conf"
--'  288  0  ~/.config/ranger/rc.conf
-|4,39,288,0,1519895408,"~/.config/ranger/rc.conf"
--'  6  9  ~/.config/ranger/rc.conf
-|4,39,6,9,1519895406,"~/.config/ranger/rc.conf"
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  22  0  ~/.Xresources
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  22  0  ~/.Xresources
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  22  0  ~/.Xresources
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  22  0  ~/.Xresources
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  22  0  ~/.Xresources
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  22  0  ~/.Xresources
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  22  0  ~/.Xresources
+|4,39,22,0,1520063473,"~/.Xresources"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  12  50  ~/.bashrc
+|4,39,12,50,1520063419,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  10  32  ~/.bashrc
+|4,39,10,32,1520063408,"~/.bashrc"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
+-'  7  20  /etc/default/grub
+|4,39,7,20,1519996126,"/etc/default/grub"
 
 # History of marks within files (newest to oldest):
 
-> ~/.config/compton.conf
-	*	1519909202	0
-	"	227	22
-	^	73	20
-	.	73	19
-	+	26	22
+> ~/.config/i3/i3blocks.conf
+	*	1520064903	0
+	"	40	12
+	^	40	13
+	.	40	12
+	+	3	0
+	+	3	1
+	+	3	0
+	+	2	0
+	+	3	0
+	+	10	0
+	+	11	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	49	0
+	+	18	0
+	+	18	13
+	+	18	0
+	+	18	6
+	+	18	9
+	+	18	0
+	+	19	0
+	+	18	0
+	+	19	16
+	+	19	0
+	+	18	0
+	+	19	0
+	+	47	0
+	+	19	0
+	+	11	6
+	+	49	6
+	+	19	0
+	+	41	0
+	+	19	0
 	+	37	0
-	+	50	0
-	+	37	0
-	+	32	0
-	+	37	0
-	+	50	0
-	+	51	0
-	+	50	19
-	+	32	0
-	+	50	22
-	+	51	1
-	+	51	0
-	+	50	29
-	+	67	17
-	+	69	19
-	+	71	19
-	+	73	19
-	+	120	0
-	+	122	0
-	+	124	0
-	+	126	0
-	+	67	16
-	+	69	19
-	+	71	19
-	+	73	19
+	+	39	0
+	+	38	0
+	+	33	0
+	+	34	9
+	+	34	20
+	+	34	15
+	+	43	0
+	+	19	0
+	+	24	0
+	+	25	0
+	+	28	0
+	+	29	0
+	+	34	15
+	+	40	12
 
 > ~/.Xresources
-	*	1519904541	0
-	"	22	0
-	.	19	0
+	*	1520064797	0
+	"	63	0
+	.	60	0
 	+	12	36
 	+	12	45
 	+	12	35
@@ -569,43 +641,13 @@ $$mod
 	+	19	0
 	+	18	0
 	+	19	0
-
-> ~/.git/info/exclude
-	*	1519895610	0
-	"	2	0
-	^	2	0
-	.	2	0
-	+	1	33
-	+	1	29
-	+	2	0
-
-> ~/.config/ranger/rc.conf
-	*	1519895429	0
-	"	515	0
-	.	657	0
-	+	657	0
-
-> /etc/ranger/config/rc.conf
-	*	1519895122	0
-	"	1	0
-
-> ~/.config/base16-shell/.git/refs/heads/master
-	*	1519894607	0
-	"	1	0
-
-> ~/.gitconfig
-	*	1519891034	0
-	"	2	15
-	^	2	16
-	.	2	15
-	+	2	15
+	+	60	0
 
 > ~/.config/i3/config
-	*	1519737630	0
-	"	42	29
-	^	42	30
-	.	42	29
-	+	279	0
+	*	1520064378	0
+	"	270	29
+	^	270	72
+	.	270	42
 	+	278	29
 	+	168	0
 	+	169	0
@@ -705,6 +747,113 @@ $$mod
 	+	160	0
 	+	161	0
 	+	42	29
+	+	270	42
+
+> ~/.bashrc
+	*	1520063417	0
+	"	12	50
+	^	10	33
+	.	10	32
+	+	13	100
+	+	8	0
+	+	11	0
+	+	8	0
+	+	13	94
+	+	13	90
+	+	13	87
+	+	13	10
+	+	13	0
+	+	13	10
+	+	13	20
+	+	13	0
+	+	12	0
+	+	13	20
+	+	11	0
+	+	12	0
+	+	11	0
+	+	1	18
+	+	11	0
+	+	12	0
+	+	11	0
+	+	10	32
+
+> /etc/default/grub
+	*	1519996122	0
+	"	7	20
+	^	7	20
+	.	7	20
+	+	7	20
+
+> ~/.config/compton.conf
+	*	1519937699	0
+	"	59	12
+	^	59	13
+	.	59	12
+	+	26	22
+	+	37	0
+	+	50	0
+	+	37	0
+	+	32	0
+	+	37	0
+	+	50	0
+	+	51	0
+	+	50	19
+	+	32	0
+	+	50	22
+	+	51	1
+	+	51	0
+	+	50	29
+	+	67	17
+	+	69	19
+	+	71	19
+	+	73	19
+	+	120	0
+	+	122	0
+	+	124	0
+	+	126	0
+	+	67	16
+	+	69	19
+	+	71	19
+	+	73	19
+	+	26	25
+	+	37	0
+	+	50	19
+	+	59	12
+	+	141	13
+	+	177	16
+	+	59	12
+	+	141	12
+	+	59	12
+
+> ~/.git/info/exclude
+	*	1519895610	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	33
+	+	1	29
+	+	2	0
+
+> ~/.config/ranger/rc.conf
+	*	1519895429	0
+	"	515	0
+	.	657	0
+	+	657	0
+
+> /etc/ranger/config/rc.conf
+	*	1519895122	0
+	"	1	0
+
+> ~/.config/base16-shell/.git/refs/heads/master
+	*	1519894607	0
+	"	1	0
+
+> ~/.gitconfig
+	*	1519891034	0
+	"	2	15
+	^	2	16
+	.	2	15
+	+	2	15
 
 > ~/.config/compton.conf.backup
 	*	1519737233	0
@@ -789,10 +938,6 @@ $$mod
 	*	1519073767	0
 	"	139	40
 
-> /etc/default/grub
-	*	1519057826	0
-	"	1	0
-
 > ~/.bash_profile
 	*	1519037321	0
 	"	8	0
@@ -825,34 +970,6 @@ $$mod
 	.	50	9
 	+	51	6
 	+	50	9
-
-> ~/.bashrc
-	*	1519036888	0
-	"	10	32
-	^	10	33
-	.	10	32
-	+	13	100
-	+	8	0
-	+	11	0
-	+	8	0
-	+	13	94
-	+	13	90
-	+	13	87
-	+	13	10
-	+	13	0
-	+	13	10
-	+	13	20
-	+	13	0
-	+	12	0
-	+	13	20
-	+	11	0
-	+	12	0
-	+	11	0
-	+	1	18
-	+	11	0
-	+	12	0
-	+	11	0
-	+	10	32
 
 > ~/backup
 	*	1519032416	0
@@ -978,56 +1095,6 @@ $$mod
 	^	1	20
 	.	1	19
 	+	1	19
-
-> ~/.config/i3/i3blocks.conf
-	*	1518888504	0
-	"	34	0
-	^	34	0
-	.	34	15
-	+	3	0
-	+	3	1
-	+	3	0
-	+	2	0
-	+	3	0
-	+	10	0
-	+	11	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	49	0
-	+	18	0
-	+	18	13
-	+	18	0
-	+	18	6
-	+	18	9
-	+	18	0
-	+	19	0
-	+	18	0
-	+	19	16
-	+	19	0
-	+	18	0
-	+	19	0
-	+	47	0
-	+	19	0
-	+	11	6
-	+	49	6
-	+	19	0
-	+	41	0
-	+	19	0
-	+	37	0
-	+	39	0
-	+	38	0
-	+	33	0
-	+	34	9
-	+	34	20
-	+	34	15
-	+	43	0
-	+	19	0
-	+	24	0
-	+	25	0
-	+	28	0
-	+	29	0
-	+	34	15
 
 > /etc/NetworkManager/NetworkManager.conf
 	*	1518862896	0

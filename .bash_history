@@ -1,258 +1,3 @@
-base16_dracula 
-ncmpcpp 
-base16_google-dark 
-ncmpcpp 
-clear
-neofetch -s
-base16_
-base16_macintosh 
-base16_material
-base16_nord
-ncmpcpp 
-base16_embers 
-ncmpcpp 
-base16_nord
-ncmpcpp 
-ncmpcpp 
-curl https://raw.githubusercontent.com/chriskempson/base16-xresources/master/xresources/base16-nord-256.Xresources >> ~/.Xresources
-vim ~/.Xresources
-xrdb -load ~/.Xresources
-ncmp
-ncmpcpp 
-vim ~/.ncmpcpp/config
-ncmpcpp 
-ranger
-vim ~/.ncmpcpp/config
-ncmpcpp 
-vim ~/.ncmpcpp/config
-ranger
-vim ~/.config/i3/config
-vim ~/.ncmpcpp/config
-ncmpcpp 
-vim ~/.ncmpcpp/config
-ncmpcpp 
-vim ~/.ncmpcpp/config
-ncmpcpp 
-vim ~/.ncmpcpp/config
-vim ~/.ncmpcpp/config
-vim ~/.ncmpcpp/config
-vim ~/.ncmpcpp/config
-ncmpcpp 
-~/bin/cisco 
-vim ~/.ncmpcpp/config
-ncmpcpp 
-vim ~/.ncmpcpp/config
-ncmpcpp 
-vnstat
-vim ~/.Xresources
-xrdb -load ~/.Xresources
-vim ~/.Xresources
-xrdb -load ~/.Xresources
-vim ~/.config/compton.conf
-vim ~/.config/compton.conf
-vim ~/.config/compton.conf
-mv ~/.config/compton.conf ~/.config/compton.conf.backup
-vim ~/.config/i3/config
-vnstat
-~/bin/cisco 
-ranger
-youtube-dl https://www.youtube.com/watch?v=vH-CGlxES8w -F
-youtube-dl https://www.youtube.com/watch?v=vH-CGlxES8w -f best
-ranger
-~/bin/cisco 
-yaourt steam
-yaourt steam valve
-sudo pacman -S steam 
-sudo vim /etc/pacman.conf
-sudo pacman -Suy
-sudo pacman -S steam 
-sudo mount /dev/sdc1 /mnt/usbstick/
-history
-vim backup
-vim backup
-rsync -aAXv /* /mnt/usbstick/2018-02-12  --exclude={/home/farzad/.mozilla/*,/home/farzad/.config/chromium/*,/dev/*,/proc/*,/sys/*,/tmp/*,/run/*,/mnt/*,/media/*,/lost+found,/home/farzad/.cache/*}
-sudo rsync -aAXv /* /mnt/usbstick/2018-02-12  --exclude={/home/farzad/.mozilla/*,/home/farzad/.config/chromium/*,/dev/*,/proc/*,/sys/*,/tmp/*,/run/*,/mnt/*,/media/*,/lost+found,/home/farzad/.cache/*}
-sudo pacman -Suy
-reboot
-ranger
-sudo mount /dev/sdc1 /mnt/usbstick/
-sudo rsync -aAXv /* /mnt/usbstick/2018-02-12  --exclude={/home/farzad/.mozilla/*,/home/farzad/.config/chromium/*,/dev/*,/proc/*,/sys/*,/tmp/*,/run/*,/mnt/*,/media/*,/lost+found,/home/farzad/.cache/*}
-sudo pacman -S steam 
-pacman -Qo /usr/lib32/libGLX_indirect.so.0
-mv /usr/lib32/libGLX_indirect.so.0 error: No package owns /usr/lib32/libGLX_indirect.so.0
-mv /usr/lib32/libGLX_indirect.so.0 /usr/lib32/libGLX_indirect.so.0.backup
-sudo mv /usr/lib32/libGLX_indirect.so.0 /usr/lib32/libGLX_indirect.so.0.backup
-sudo pacman -S steam 
-top
-steam
-ranger
-vim ~/.bashrc
-vim ~/.xinitrc 
-vim ~/.bash_profile
-cd Downloads/
-ls
-sudo bash *.run
-vim /var/log/nvidia-installer.log 
-reboot
-cd Downloads/
-sudo bash *.run
-startx
-~/bin/cisco 
-ping 8.8.8.8
-~/bin/cisco 
-yaourt aria2c
-sudo pacman -S aria2c
-sudo pacman -S aria2
-aria2c --help
-echo 1 > /sys/module/bluetooth/parameters/disable_ertm
-sudo echo 1 > /sys/module/bluetooth/parameters/disable_ertm
-sudo echo 1 > /sys/module/bluetooth/parameters/disable_ertm
-sudo -i
-vim  /etc/default/grub
-sudo vim  /etc/default/grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-ranger
-yaourt glxosd
-glxosd 
-glxosd 
-glxosd glxgears
-sudo pacman -S  glxgears
-yaourt  glxgears
-sudo pacman -S mesa-demos
-glxosd glxgears
-sensors
-sudo sensors-detect
-sudo sensors-detect
-sensors
-yaourt psensor
- psensor
-vim ~/.bash_profile
-steam
-ranger
-ranger
-clear
-ranger
-clear
-ranger
-~/bin/cisco 
-~/bin/cisco 
-top
-~/bin/cisco 
-top
-~/bin/cisco 
-top
-blutoothctl
-bluetoothctl
-~/bin/cisco 
-~/bin/cisco 
-sudo echo 1 > /sys/module/bluetooth/parameters/disable_ertm
-sudo -i
-ranger
-sudo -i 
-~/bin/cisco 
-ranger
-ranger
-ranger
-~/bin/cisco 
-ranger
-sudo pacman -S rar
-yaourrt rar 
-yaourt rar 
-yaourt rar 
-yaourt rar 
-yaourt rar 
-yaourt A command-line port of the rar compression utility
-ranger
-rar
-cd /mnt/01D3A1BA3CE69610/
-ls
-cd ..
-cd 01D2
-cd 01D2DA06E7B08550/
-ls
-ranger
-ranger
-ping 8.8.8.8
-ranger
-~/bin/cisco 
-sudo -i
-top
-ranger
-ping 8.8.8.8
-ping 8.8.8.8
-ranger
-~/bin/cisco 
-~/bin/cisco 
-ping 8.8.8.8
-~/bin/cisco 
-yaourt unigine superposition
-yaourt unigine superposition
-yaourt unigine superposition
-yaourt unigine superposition
-aria2c -x16 http://m11-assets.unigine.com/d/Unigine_Superposition-1.0.run
-reboot
-:q
-q
-exit
-ranger
-cdd Unigine_Superposition-1.0
-cd Unigine_Superposition-1.0
-ls
-cd Superposition 
-./Superposition 
-yaourt libopenssl
-sudo pacman -S openssl-1.0
-./Superposition 
-sudo find / -name openssl-1.0-
-sudo find / -name openssl-1.0
-LD_LIBRARY_PATH=/usr/lib/openssl-1.0 ./Superposition 
-ranger
-ranger
-yaourt spotify
-yaourt A proprietary music streaming service
-ranger
-vim miz
-vim miz
-vim miz
-~/bin/cisco 
-~/bin/cisco 
-~/bin/cisco 
-~/bin/cisco 
-ranger
-ranger
-ranger
-ranger
-ranger
-ranger
-~/bin/cisco 
-top
-ranger
-~/bin/cisco 
-ranger
-ranger
-sudo ip link
-sudo netctl
-sudo netctl list
-sudo netctl status wlp6s0-Arch_AM
-sudo netctl restart wlp6s0-Arch_AM
-~/bin/cisco 
-~/bin/cisco 
-vim ~/bin/cisco 
-~/bin/cisco 
-vim ~/bin/cisco 
-~/bin/cisco 
-~/bin/cisco 
-~/bin/cisco 
-sudo pacman -S  trickle 
-trickle -d1600 -u50 firefox 
-trickle -s -d 1600 firefox  
-trickle -s -d 500 firefox  
-trickle -s -d 1000 firefox  
-trickle -s -d 1500 firefox  
-aria2c https://c1.staticflickr.com/5/4752/38981951905_2085ea2bfd_o.png
-ranger
-~/bin/cisco 
-~/bin/cisco 
 vim ~/bin/cisco 
 ~/bin/cisco 
 vim ~/bin/cisco 
@@ -498,3 +243,258 @@ sudo rm -r /mnt/usbstick/2018-02-12-dotfiles/
 sudo rm -r /mnt/usbstick/2018-02-12/home
 ranger
 sudo rsync -aAXv /* /mnt/usbstick/2018-02-12  --exclude={/home/*,,/dev/*,/proc/*,/sys/*,/tmp/*,/run/*,/mnt/*,/media/*,/lost+found/*}
+ranger
+~/bin/cisco 
+sudo mount /dev/sdc1 /mnt/usbstick/
+sudo rsync -aAXv /* /mnt/usbstick/2018-02-12  --exclude={/home/*,,/dev/*,/proc/*,/sys/*,/tmp/*,/run/*,/mnt/*,/media/*,/lost+found/*}
+sudo rsync -aAXv /* /mnt/usbstick/2018-02-12  --exclude={/home/*,/dev/*,/proc/*,/sys/*,/tmp/*,/run/*,/mnt/*,/media/*,/lost+found/*}
+ranger
+
+ranger
+git status
+git rm /home/farzad/.config/chromium
+git rm -r /home/farzad/.config/chromium
+git rm -r -f /home/farzad/.config/chromium
+git status
+git fsck --full
+git cat-file -p ff1fb2d302cbfde9b592b8165e430be009c88ad4
+git cat-file -p f8ffc0fa3e468f600b44b0fed211930e92084446
+clear
+git status
+git fsck --full
+git rm -rf -cached  /home/farzad/.config/chromium
+git rm -rf --cached  /home/farzad/.config/chromium
+git status
+git commit -a
+git commit -a
+git commit -a
+git status
+git add .Xresources
+git add .xinitrc 
+git add .bas*
+git add .gtkrc-2.0 
+git add .gtkrc-2.0 .kodi/
+git add .gtkrc-2.0 .imwheelrc 
+git status
+git add .X*
+git status
+ranger
+git status
+sudo pacman -S
+sudo pacman -S jre8-openjdk
+sudo pacman -S jre8-openjdk
+yaourt bfg
+bfg --delete-files  /home/farzad/.config/create_ap.conf
+clear
+cd ~/.config/
+bfg --delete-files  /create_ap.conf
+bfg --delete-files  create_ap.conf
+cd ..
+cd .git
+bfg --delete-files  create_ap.conf
+bfg --delete-files  create_ap.conf
+bfg --delete-files  create_ap.conf
+bfg --delete-files  create_ap.conf
+git rm --cached /home/farzad/.config/create_ap.conf
+git status
+cd ..
+git status
+git rm --cached /home/farzad/.config/create_ap.conf
+bfg --delete-files  create_ap.conf
+vim ~/.Xresources
+ranger
+git-add 
+sudo pacman -S git-add 
+vim ~/.git/info/exclude
+mkdir ~/.git/info/
+mkdir ~/.git/
+mkdir ~/.git/info/
+vim ~/.git/info/exclude
+git add -f ~/.config/*
+git config --global user.name  "farzad"
+git config --global user.email "farzad.als@mail.com"
+git add -f ~/.config/*
+git init
+
+git rm --cached .config/base16-shell
+git rm -f --cached .config/base16-shell
+ranger
+vim ~/.git/info/exclude
+ranger
+git add -f ~/.ncmpcpp/
+ranger
+vim ~/.git/info/exclude
+gitignore
+git ignore
+git --help
+ranger
+vim ~/.git/info/exclude
+git add -f ~/.config/compton.conf
+git add -f ~/.config/*
+ranger
+yaourt ncdu
+ncdu
+git remote add origin https://github.com/farzads2/dotfiles
+git push origin master
+yaourt BFG Repo-Cleaner
+yaourt BFG 
+yaourt BFG 
+sudo -i
+ranger
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git rm -r /home/farzad/.config/bookworm
+git commit -m "Remove duplicated directory"
+git push origin master
+git pull
+git push -u origin master
+git pull
+git pull https://github.com/farzads2/dotfiles master
+git reset --hard HEAD^1
+git push -u origin master
+git add /home/farzad/.config/compton.conf
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u /home/farzad/.config/compton.conf  master
+yaourt xsel
+
+sudo find -name rc.conf
+vim ./.config/ranger/rc.conf
+~/bin/cisco 
+~/bin/cisco 
+git add /home/farzad/.vim*
+git push -u /home/farzad/.config/compton.conf  master
+git push -u origin  master
+git push -u origin  master
+git push -u origin  master
+git push -u origin  master
+git add /home/farzad/.vim*
+git commit -m "vim"
+git push -u origin  master
+git add /home/farzad/.ps*
+git commit -m "psens"
+git push -u origin  master
+git add /home/farzad/.nvi*
+git commit -m "nvid"
+git push -u origin  master
+git push -u origin  master
+git push -u origin master
+git push --help
+vim ~/.config/compton.conf
+cp ~/.config/compton.conf ~/
+git push --help
+git pull https://github.com/farzads2/dotfiles master
+git push -u origin master
+git push -u origin master
+git push -u origin master
+ranger
+ranger
+killall compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+compton
+vim ~/.config/compton.conf
+
+vim ~/.config/compton.conf
+~/bin/cisco 
+ranger
+~/bin/cisco 
+blutoothctl
+bluetoothctl
+bluetoothctl
+vim /etc/default/grub
+vim /etc/default/grub
+sudo vim /etc/default/grub
+reboot
+bluetoothctl
+~/bin/cisco 
+~/bin/cisco 
+yaourt  Wine "PBA
+yaourt  Wine PBA
+ranger
+ranger
+ranger
+base16_material
+cd ~/.config/base16-shell/
+./colortest 
+base16_one-light 
+base16_
+ncmpcpp 
+base16_grayscale-dark 
+ncmpcpp 
+base16_grayscale-light 
+ncmpcpp 
+base16_flat 
+ncmpcpp 
+base16_ocean
+ncmpcpp 
+base16_nord 
+ncmpcpp 
+base16_ocean
+ncmpcpp 
+base16_flat 
+ncmpcpp 
+base16_tomorrow-night 
+ncmpcpp 
+base16_ocean
+ncmpcpp 
+ncmpcpp 
+./colortest 
+base16_tomorrow-night 
+base16_ocean
+base16_tomorrow-night 
+base16_ocean
+base16_tomorrow-night 
+ncmpcpp 
+base16_nord 
+base16_tomorrow-night 
+base16_nord 
+base16_tomorrow-night 
+base16_nord 
+base16_tomorrow-night 
+cd ~
+ranger
+curl https://raw.githubusercontent.com/chriskempson/base16-xresources/master/xresources/base16-tomorrow-night-256.Xresources.Xresources >> ~/.Xresources
+curl https://raw.githubusercontent.com/chriskempson/base16-xresources/master/xresources/base16-tomorrow-night-256.Xresources >> ~/.Xresources
+ranger
+ranger
+ncmpcpp 
+base16_icy 
+./.config/base16-shell/colortest 
+base16_marrakesh 
+base16_rebecca 
+base16_porple 
+base16_tomorrow-night 
+base16_por
+base16_tomorrow-night 
+base16_por
+base16_tomorrow-night 
+base16_por
+base16_tomorrow-night 
+base16_por
+base16_porple 
+base16_tomorrow-night 
+ranger
+~/bin/cisco 
+ranger
+ranger
+vim ~/.config/i3/config
