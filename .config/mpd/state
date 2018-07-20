@@ -1,77 +1,241 @@
-sw_volume: 100
+sw_volume: 82
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 12
-time: 4.075000
+state: pause
+current: 0
+time: 289.000000
 random: 0
-repeat: 0
-single: 0
+repeat: 1
+single: 1
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3
-1:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3
-2:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3
-3:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3
-4:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3
-5:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3
-6:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3
-7:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3
-8:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3
-9:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3
-10:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3
-11:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3
-12:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3
-13:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3
-14:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/01-lcd_soundsystem-oh_baby.flac
-15:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/02-lcd_soundsystem-other_voices.flac
-16:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/03-lcd_soundsystem-i_used_to.flac
-17:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/04-lcd_soundsystem-change_yr_mind.flac
-18:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/05-lcd_soundsystem-how_do_you_sleep.flac
-19:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/06-lcd_soundsystem-tonite.flac
-20:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/07-lcd_soundsystem-call_the_police.flac
-21:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/08-lcd_soundsystem-american_dream.flac
-22:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/09-lcd_soundsystem-emotional_haircut.flac
-23:LCD_Soundsystem-American_Dream-CD-FLAC-2017-FAiNT/10-lcd_soundsystem-black_screen.flac
-24:Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac
-25:Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac
-26:Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac
-27:Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac
-28:Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac
-29:Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac
-30:Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac
-31:Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac
-32:Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac
-33:Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac
-34:Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac
-35:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac
-36:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac
-37:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac
-38:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac
-39:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac
-40:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac
-41:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac
-42:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac
-43:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac
-44:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/10-st_vincent-young_lover.flac
-45:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/11-st_vincent-dancing_with_a_ghost.flac
-46:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/12-st_vincent-slow_disco.flac
-47:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/13-st_vincent-smoking_section.flac
-48:SZA-CTRL-CD-FLAC-2017-PERFECT/01-sza-supermodel.flac
-49:SZA-CTRL-CD-FLAC-2017-PERFECT/02-sza-love_galore_(feat_travis_scott).flac
-50:SZA-CTRL-CD-FLAC-2017-PERFECT/03-sza-doves_in_the_wind_(feat_kendrick_lamar).flac
-51:SZA-CTRL-CD-FLAC-2017-PERFECT/04-sza-drew_barrymore.flac
-52:SZA-CTRL-CD-FLAC-2017-PERFECT/05-sza-prom.flac
-53:SZA-CTRL-CD-FLAC-2017-PERFECT/06-sza-the_weekend.flac
-54:SZA-CTRL-CD-FLAC-2017-PERFECT/07-sza-go_gina.flac
-55:SZA-CTRL-CD-FLAC-2017-PERFECT/08-sza-garden_(say_it_like_dat).flac
-56:SZA-CTRL-CD-FLAC-2017-PERFECT/09-sza-broken_clocks.flac
-57:SZA-CTRL-CD-FLAC-2017-PERFECT/10-sza-anything.flac
-58:SZA-CTRL-CD-FLAC-2017-PERFECT/11-sza-wavy_(interlude)_(feat_james_fauntleroy).flac
-59:SZA-CTRL-CD-FLAC-2017-PERFECT/12-sza-normal_girl.flac
-60:SZA-CTRL-CD-FLAC-2017-PERFECT/13-sza-pretty_little_birds_(feat_isaiah_rashad).flac
-61:SZA-CTRL-CD-FLAC-2017-PERFECT/14-sza-20_something.flac
+0:Adele - 25 (2015)...Freak37/01-Hello.mp3
+1:Adele - 25 (2015)...Freak37/02-Send my love (to your new lover).mp3
+2:Adele - 25 (2015)...Freak37/03-I miss you.mp3
+3:Adele - 25 (2015)...Freak37/04-When we were young.mp3
+4:Adele - 25 (2015)...Freak37/05-Remedy.mp3
+5:Adele - 25 (2015)...Freak37/06-Water under the bridge.mp3
+6:Adele - 25 (2015)...Freak37/07-River lea.mp3
+7:Adele - 25 (2015)...Freak37/08-Love in the dark.mp3
+8:Adele - 25 (2015)...Freak37/09-Million years ago.mp3
+9:Adele - 25 (2015)...Freak37/10-All i ask.mp3
+10:Adele - 25 (2015)...Freak37/11-Sweetest devotion.mp3
+11:Beyonce - Lemonade [iTunes w Booklet]/01 Pray You Catch Me.m4a
+12:Beyonce - Lemonade [iTunes w Booklet]/02 Hold Up.m4a
+13:Beyonce - Lemonade [iTunes w Booklet]/03 Don't Hurt Yourself (feat. Jack W.m4a
+14:Beyonce - Lemonade [iTunes w Booklet]/04 Sorry.m4a
+15:Beyonce - Lemonade [iTunes w Booklet]/05 6 Inch (feat. The Weeknd).m4a
+16:Beyonce - Lemonade [iTunes w Booklet]/06 Daddy Lessons.m4a
+17:Beyonce - Lemonade [iTunes w Booklet]/07 Love Drought.m4a
+18:Beyonce - Lemonade [iTunes w Booklet]/08 Sandcastles.m4a
+19:Beyonce - Lemonade [iTunes w Booklet]/09 Forward (feat. James Blake).m4a
+20:Beyonce - Lemonade [iTunes w Booklet]/10 Freedom (feat. Kendrick Lamar).m4a
+21:Beyonce - Lemonade [iTunes w Booklet]/11 All Night.m4a
+22:Beyonce - Lemonade [iTunes w Booklet]/12 Formation.m4a
+23:Ed Sheeran - __/01 - Eraser.mp3
+24:Ed Sheeran - __/02 - Castle on the Hill.mp3
+25:Ed Sheeran - __/03 - Dive.mp3
+26:Ed Sheeran - __/04 - Shape of You.mp3
+27:Ed Sheeran - __/05 - Perfect.mp3
+28:Ed Sheeran - __/06 - Galway Girl.mp3
+29:Ed Sheeran - __/07 - Happier.mp3
+30:Ed Sheeran - __/08 - New Man.mp3
+31:Ed Sheeran - __/09 - Hearts Don't Break Around Here.mp3
+32:Ed Sheeran - __/10 - What Do I Know.mp3
+33:Ed Sheeran - __/11 - How Would You Feel (Paean).mp3
+34:Ed Sheeran - __/12 - Supermarket Flowers.mp3
+35:Ed Sheeran - __/13 - Barcelona.mp3
+36:Ed Sheeran - __/14 - Bibia Be Ye Ye.mp3
+37:Ed Sheeran - __/15 - Nancy Mulligan.mp3
+38:Ed Sheeran - __/16 - Save Myself.mp3
+39:J_Cole-KOD-CD-FLAC-2018-PERFECT/01-j_cole-intro.flac
+40:J_Cole-KOD-CD-FLAC-2018-PERFECT/02-j_cole-kod.flac
+41:J_Cole-KOD-CD-FLAC-2018-PERFECT/03-j_cole-photograph.flac
+42:J_Cole-KOD-CD-FLAC-2018-PERFECT/04-j_cole-the_cut_off_(feat_kill_edward).flac
+43:J_Cole-KOD-CD-FLAC-2018-PERFECT/05-j_cole-atm.flac
+44:J_Cole-KOD-CD-FLAC-2018-PERFECT/06-j_cole-motiv8.flac
+45:J_Cole-KOD-CD-FLAC-2018-PERFECT/07-j_cole-kevins_heart.flac
+46:J_Cole-KOD-CD-FLAC-2018-PERFECT/08-j_cole-brackets.flac
+47:J_Cole-KOD-CD-FLAC-2018-PERFECT/09-j_cole-once_an_addict_(interlude).flac
+48:J_Cole-KOD-CD-FLAC-2018-PERFECT/10-j_cole-friends_(feat_kill_edward).flac
+49:J_Cole-KOD-CD-FLAC-2018-PERFECT/11-j_cole-window_pain_(outro).flac
+50:J_Cole-KOD-CD-FLAC-2018-PERFECT/12-j_cole-1985_(intro_to_the_fall_off).flac
+51:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/01-janelle_monae-dirty_computer_(feat_brian_wilson).flac
+52:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/02-janelle_monae-crazy_classic_life.flac
+53:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/03-janelle_monae-take_a_byte.flac
+54:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/04-janelle_monae-janes_dream.flac
+55:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/05-janelle_monae-screwed_(feat_zoe_kravitz).flac
+56:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/06-janelle_monae-django_jane.flac
+57:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/07-janelle_monae-pynk_(feat_grimes).flac
+58:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/08-janelle_monae-make_me_feel.flac
+59:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/09-janelle_monae-i_got_the_juice_(feat_pharrell_williams).flac
+60:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/10-janelle_monae-i_like_that.flac
+61:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/11-janelle_monae-dont_judge_me.flac
+62:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/12-janelle_monae-stevies_dream.flac
+63:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/13-janelle_monae-so_afraid.flac
+64:Janelle_Monae-Dirty_Computer-CD-FLAC-2018-PERFECT/14-janelle_monae-americans.flac
+65:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/01 BLOOD..mp3
+66:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/02 DNA..mp3
+67:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/03 YAH..mp3
+68:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/04 ELEMENT..mp3
+69:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/05 FEEL..mp3
+70:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/06 LOYALTY..mp3
+71:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/07 PRIDE..mp3
+72:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/08 HUMBLE..mp3
+73:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/09 LUST..mp3
+74:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/10 LOVE..mp3
+75:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/11 XXX..mp3
+76:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/12 FEAR..mp3
+77:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/13 GOD..mp3
+78:Kendrick Lamar - DAMN. [MP3-320]/Kendrick Lamar - DAMN. [MP3-320]/14 DUCKWORTH..mp3
+79:Lindsey Stirling - Brave Enough DE/01. Lost Girls.mp3
+80:Lindsey Stirling - Brave Enough DE/02. Brave Enough (feat. Christina Perri).mp3
+81:Lindsey Stirling - Brave Enough DE/03. The Arena.mp3
+82:Lindsey Stirling - Brave Enough DE/04. The Phoenix.mp3
+83:Lindsey Stirling - Brave Enough DE/05. Where Do We Go (feat. Carah Faye).mp3
+84:Lindsey Stirling - Brave Enough DE/06. Those Days (feat. Dan + Shay) .mp3
+85:Lindsey Stirling - Brave Enough DE/07. Prism.mp3
+86:Lindsey Stirling - Brave Enough DE/08. Hold My Heart (feat. ZZ Ward).mp3
+87:Lindsey Stirling - Brave Enough DE/09. Mirage (feat. Raja Kumari).mp3
+88:Lindsey Stirling - Brave Enough DE/10. Don't Let This Feeling Fade (feat. Rivers Cuomo & Lecrae).mp3
+89:Lindsey Stirling - Brave Enough DE/11. First Light.mp3
+90:Lindsey Stirling - Brave Enough DE/12. Love's Just a Feeling (feat. Rooty).mp3
+91:Lindsey Stirling - Brave Enough DE/13. Something Wild (feat. Andrew McMahon In the Wilderness).mp3
+92:Lindsey Stirling - Brave Enough DE/14. Gavi's Song.mp3
+93:Lindsey Stirling - Brave Enough DE/15. Waltz (Bonus Track).mp3
+94:Lindsey Stirling - Brave Enough DE/16. Afterglow (Bonus Track).mp3
+95:Lindsey Stirling - Brave Enough DE/17. Powerlines (Bonus Track).mp3
+96:Lindsey Stirling - Brave Enough DE/18. Forgotten Voyage (Bonus Track).mp3
+97:Lorde-Melodrama-CD-FLAC-2017-PERFECT/01-lorde-green_light.flac
+98:Lorde-Melodrama-CD-FLAC-2017-PERFECT/02-lorde-sober.flac
+99:Lorde-Melodrama-CD-FLAC-2017-PERFECT/03-lorde-homemade_dynamite.flac
+100:Lorde-Melodrama-CD-FLAC-2017-PERFECT/04-lorde-the_louvre.flac
+101:Lorde-Melodrama-CD-FLAC-2017-PERFECT/05-lorde-liability.flac
+102:Lorde-Melodrama-CD-FLAC-2017-PERFECT/06-lorde-hard_feelings_loveless.flac
+103:Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac
+104:Lorde-Melodrama-CD-FLAC-2017-PERFECT/08-lorde-writer_in_the_dark.flac
+105:Lorde-Melodrama-CD-FLAC-2017-PERFECT/09-lorde-supercut.flac
+106:Lorde-Melodrama-CD-FLAC-2017-PERFECT/10-lorde-liability_(reprise).flac
+107:Lorde-Melodrama-CD-FLAC-2017-PERFECT/11-lorde-perfect_places.flac
+108:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD1/01. Hardwired.mp3
+109:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD1/02. Atlas, Rise!.mp3
+110:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD1/03. Now That We're Dead.mp3
+111:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD1/04. Moth Into Flame.mp3
+112:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD1/05. Dream No More.mp3
+113:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD1/06. Halo On Fire.mp3
+114:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD2/01. Confusion.mp3
+115:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD2/02. ManUNkind.mp3
+116:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD2/03. Here Comes Revenge.mp3
+117:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD2/04. Am I Savage.mp3
+118:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD2/05. Murder One.mp3
+119:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD2/06. Spit Out The Bone.mp3
+120:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/01. Lords Of Summer.mp3
+121:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/02. Ronnie Rising Medley (A Light In The Black, Tarot Woman, Stargazer, Kill The King).mp3
+122:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/03. When A Blind Man Cries.mp3
+123:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/04. Remember Tomorrow.mp3
+124:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/05. Helpless (Live At Rasputin Music).mp3
+125:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/06. Hit The Lights (Live At Rasputin Music).mp3
+126:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/07. The Four Horsemen (Live At Rasputin Music).mp3
+127:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/08. Ride The Lightning (Live At Rasputin Music).mp3
+128:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/09. Fade To Black (Live At Rasputin Music).mp3
+129:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/10. Jump In The Fire (Live At Rasputin Music).mp3
+130:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/11. For Whom The Bell Tolls (Live At Rasputin Music).mp3
+131:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/12. Creeping Death (Live At Rasputin Music).mp3
+132:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/13. Metal Militia (Live At Rasputin Music).mp3
+133:Metallica - Hardwiredظ_خTo Self-Destruct (Limited Deluxe Edition) - 2016 (320 kbps)/CD3/14. Hardwired (Live In Minneapolis).mp3
+134:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/01. Human.mp3
+135:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/02. Innocent Man.mp3
+136:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/03. Skin.mp3
+137:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/04. Bitter End.mp3
+138:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/05. Be the Man.mp3
+139:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/06. Love You Any Less.mp3
+140:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/07. Odetta.mp3
+141:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/08. Grace.mp3
+142:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/09. Ego.mp3
+143:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/10. Arrow.mp3
+144:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/11. As You Are.mp3
+145:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/12. Die Easy.mp3
+146:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/13. The Fire.mp3
+147:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/14. Fade to Nothing.mp3
+148:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/15. Life In Her Yet.mp3
+149:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/16. Your Way or the Rope.mp3
+150:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/17. Lay My Body Down.mp3
+151:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/18. Wolves.mp3
+152:Ragظ_آnظ_آBone Man Human [2017] 320/HUMAN DELUXE/19. Healed.mp3
+153:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/01-st_vincent-hang_on_me.flac
+154:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/02-st_vincent-pills.flac
+155:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/03-st_vincent-masseduction.flac
+156:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/04-st_vincent-sugarboy.flac
+157:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/05-st_vincent-los_ageless.flac
+158:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/06-st_vincent-happy_birthday_johnny.flac
+159:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/07-st_vincent-savior.flac
+160:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/08-st_vincent-new_york.flac
+161:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/09-st_vincent-fear_the_future.flac
+162:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/10-st_vincent-young_lover.flac
+163:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/11-st_vincent-dancing_with_a_ghost.flac
+164:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/12-st_vincent-slow_disco.flac
+165:St_Vincent-Masseduction-(LVR00223)-CD-FLAC-2017-HOUND/13-st_vincent-smoking_section.flac
+166:The Weeknd - Starboy (2016)/01 Starboy (feat. Daft Punk).mp3
+167:The Weeknd - Starboy (2016)/02 Party Monster.mp3
+168:The Weeknd - Starboy (2016)/03 False Alarm.mp3
+169:The Weeknd - Starboy (2016)/04 Reminder.mp3
+170:The Weeknd - Starboy (2016)/05 Rockin_.mp3
+171:The Weeknd - Starboy (2016)/06 Secrets.mp3
+172:The Weeknd - Starboy (2016)/07 True Colors.mp3
+173:The Weeknd - Starboy (2016)/08 Stargirl Interlude (feat. Lana De.mp3
+174:The Weeknd - Starboy (2016)/09 Sidewalks (feat. Kendrick Lamar).mp3
+175:The Weeknd - Starboy (2016)/10 Six Feet Under.mp3
+176:The Weeknd - Starboy (2016)/11 Love To Lay.mp3
+177:The Weeknd - Starboy (2016)/12 A Lonely Night.mp3
+178:The Weeknd - Starboy (2016)/13 Attention.mp3
+179:The Weeknd - Starboy (2016)/14 Ordinary Life.mp3
+180:The Weeknd - Starboy (2016)/15 Nothing Without You.mp3
+181:The Weeknd - Starboy (2016)/16 All I Know (feat. Future).mp3
+182:The Weeknd - Starboy (2016)/17 Die For You.mp3
+183:The Weeknd - Starboy (2016)/18 I Feel It Coming (feat. Daft Punk.mp3
+184:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/01. Gang Up.mp3
+185:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/02. Go Off.mp3
+186:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/03. Good Life.mp3
+187:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/04. Horses.mp3
+188:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/05. Seize The Block.mp3
+189:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/06. Murder (feat. 21 Savage) (Remix).mp3
+190:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/07. Speakerbox (feat. Ohana Bam & Lafa Taylor) (F8 Remix).mp3
+191:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/08. Candy Paint.mp3
+192:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/09. 911.mp3
+193:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/10. Mamacita (feat. Rico Nasty).mp3
+194:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/11. Don't Get Much Better.mp3
+195:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/12. Hey Ma (feat. Camila Cabello) (Spanish Version).mp3
+196:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/13. La Habana (feat. El Taiger).mp3
+197:VA - The Fate of the Furious (OST) (2017) [Mp3 - 320kbps]/14. Hey Ma (feat. Camila Cabello).mp3
+198:Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac
+199:Lorde-Melodrama-CD-FLAC-2017-PERFECT/07-lorde-sober_ii_(melodrama).flac
+200:Cardi B - Invasion of Privacy (2018)/Bartier Cardi (feat. 21 Savage) Cardi B.flac
+201:Cardi B - Invasion of Privacy (2018)/Be Careful Cardi B.flac
+202:Cardi B - Invasion of Privacy (2018)/Best Life (feat. Chance the Rapper) Cardi B.flac
+203:Cardi B - Invasion of Privacy (2018)/Bickenhead Cardi B.flac
+204:Cardi B - Invasion of Privacy (2018)/Bodak Yellow Cardi B.flac
+205:Cardi B - Invasion of Privacy (2018)/Drip (feat. Migos) Cardi B.flac
+206:Cardi B - Invasion of Privacy (2018)/Get Up 10 Cardi B.flac
+207:Cardi B - Invasion of Privacy (2018)/I Do (feat. SZA) Cardi B.flac
+208:Cardi B - Invasion of Privacy (2018)/I Like It Cardi B, Bad Bunny & J Balvin.flac
+209:Cardi B - Invasion of Privacy (2018)/Money Bag Cardi B.flac
+210:Cardi B - Invasion of Privacy (2018)/Ring (feat. Kehlani) Cardi B.flac
+211:Cardi B - Invasion of Privacy (2018)/She Bad Cardi B & YG.flac
+212:Cardi B - Invasion of Privacy (2018)/Thru Your Phone Cardi B.flac
+213:Cardi B - Invasion of Privacy (2018)/01 Get Up 10.mp3
+214:Cardi B - Invasion of Privacy (2018)/02 Drip (feat. Migos).mp3
+215:Cardi B - Invasion of Privacy (2018)/03 Bickenhead.mp3
+216:Cardi B - Invasion of Privacy (2018)/04 Bodak Yellow.mp3
+217:Cardi B - Invasion of Privacy (2018)/05 Be Careful.mp3
+218:Cardi B - Invasion of Privacy (2018)/06 Best Life (feat. Chance the Rapper).mp3
+219:Cardi B - Invasion of Privacy (2018)/07 I Like It.mp3
+220:Cardi B - Invasion of Privacy (2018)/08 Ring (feat. Kehlani).mp3
+221:Cardi B - Invasion of Privacy (2018)/09 Money Bag.mp3
+222:Cardi B - Invasion of Privacy (2018)/10 Bartier Cardi (feat. 21 Savage).mp3
+223:Cardi B - Invasion of Privacy (2018)/11 She Bad.mp3
+224:Cardi B - Invasion of Privacy (2018)/12 Thru Your Phone.mp3
+225:Cardi B - Invasion of Privacy (2018)/13 I Do (feat. SZA).mp3
 playlist_end

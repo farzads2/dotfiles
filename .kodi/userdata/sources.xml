@@ -6,7 +6,17 @@
         <default pathversion="1"></default>
         <source>
             <name>Movies</name>
-            <path pathversion="1">/mnt/01D2DA06E7B08550/Movies/</path>
+            <path pathversion="1">/mnt/C8808B09808AFD66/Movies/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>ok</name>
+            <path pathversion="1">/mnt/6AFE3935FE38FB41/ok/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Movies (2)</name>
+            <path pathversion="1">/mnt/01D4182C8857A560/Movies/</path>
             <allowsharing>true</allowsharing>
         </source>
     </video>

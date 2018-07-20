@@ -11,3 +11,5 @@ BASE16_SHELL_SET_BACKGROUND=false
 BASE16_SHELL=$HOME/.config/base16-shell/
 [ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
 export PATH=${PATH}:/opt/android-sdk/platform-tools
+#alias aria2c='aria2c --auto-file-renaming=false  --max-tries=0 --retry-wait=5 --timeout=500 --check-integrity true --max-connection-per-server=16 --dir=/mnt/C8808B09808AFD66/download/'
+alias aria2c='aria2c --auto-file-renaming=false  --max-tries=0 --retry-wait=5 --timeout=500  --file-allocation=none --max-connection-per-server=16 --dir=/mnt/01D4182CA3866AB0/download/'

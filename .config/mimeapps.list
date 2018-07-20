@@ -1,6 +1,31 @@
 [Default Applications]
-text/plain=vlc.desktop
+text/plain=org.gnome.gedit.desktop
+application/octet-stream=org.gnome.gedit.desktop
+application/pdf=FoxitReader.desktop
+application/ppdf=FoxitReader.desktop
+video/x-matroska=mpv.desktop
+text/x-log=org.gnome.gedit.desktop
+x-scheme-handler/discord-424004941485572097=discord-424004941485572097.desktop
+audio/mpeg=audacious.desktop
 
 [Added Associations]
-image/jpeg=feh.desktop;
-audio/x-mpegurl=vlc.desktop;
+image/jpeg=ristretto.desktop;nomacs.desktop;feh.desktop;
+audio/x-mpegurl=vlc.desktop;mpv.desktop;
+video/mp4=mpv.desktop;mplayer.desktop;vlc.desktop;
+text/plain=org.gnome.gedit.desktop;wine-extension-txt.desktop;vlc.desktop;vim.desktop;gvim.desktop;
+video/x-matroska=mpv.desktop;mplayer.desktop;vlc.desktop;
+image/png=feh.desktop;
+application/x-raw-disk-image=org.gnome.Nautilus.desktop;
+text/x-c++src=vim.desktop;
+application/pdf=FoxitReader.desktop;com.github.babluboy.bookworm.desktop;wine-extension-pdf.desktop;
+text/x-log=org.gnome.gedit.desktop;vlc.desktop;
+text/x-nfo=vim.desktop;vlc.desktop;
+application/zip=gvim.desktop;
+application/x-ms-dos-executable=wine.desktop;
+video/webm=mpv.desktop;vlc.desktop;
+video/mp2t=mpv.desktop;vlc.desktop;
+application/x-shellscript=vim.desktop;
+audio/mpeg=vlc.desktop;audacious.desktop;
+application/x-cd-image=cdemu-client.desktop;
+application/octet-stream=org.gnome.gedit.desktop;
+application/x-desktop=wine-Programs-Toosheh-Toosheh.desktop;

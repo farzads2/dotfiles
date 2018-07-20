@@ -79,7 +79,7 @@
         <daystodisplay default="true">3</daystodisplay>
         <epgupdate default="true">120</epgupdate>
         <hidenoinfoavailable default="true">true</hidenoinfoavailable>
-        <ignoredbforclient>true</ignoredbforclient>
+        <ignoredbforclient default="true">false</ignoredbforclient>
         <preventupdateswhileplayingtv default="true">false</preventupdateswhileplayingtv>
         <selectaction default="true">2</selectaction>
     </epg>
@@ -100,12 +100,12 @@
         <addonforeignfilter default="true">false</addonforeignfilter>
         <addonnotifications default="true">false</addonnotifications>
         <addonupdates default="true">0</addonupdates>
-        <settinglevel>3</settinglevel>
+        <settinglevel>2</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>4212</systemtotaluptime>
+        <systemtotaluptime>40569</systemtotaluptime>
     </general>
     <input>
         <asknewcontrollers default="true">true</asknewcontrollers>
@@ -121,9 +121,9 @@
         <language default="true">resource.language.en_gb</language>
         <longdateformat default="true">regional</longdateformat>
         <shortdateformat default="true">regional</shortdateformat>
-        <speedunit default="true">regional</speedunit>
+        <speedunit>kmh</speedunit>
         <subtitlelanguage>English</subtitlelanguage>
-        <temperatureunit default="true">regional</temperatureunit>
+        <temperatureunit>c</temperatureunit>
         <timeformat default="true">regional</timeformat>
         <timezone>Asia/Tehran</timezone>
         <timezonecountry>Iran</timezonecountry>
@@ -138,7 +138,7 @@
         <skintheme default="true">SKINDEFAULT</skintheme>
         <skinzoom default="true">0</skinzoom>
         <soundskin default="true">resource.uisounds.kodi</soundskin>
-        <startupwindow default="true">10000</startupwindow>
+        <startupwindow>10700</startupwindow>
         <stereostrength default="true">5</stereostrength>
     </lookandfeel>
     <masterlock>
@@ -210,7 +210,7 @@
         <usehttpproxy default="true">false</usehttpproxy>
     </network>
     <pictures>
-        <displayresolution default="true">14</displayresolution>
+        <displayresolution>15</displayresolution>
         <generatethumbs default="true">true</generatethumbs>
         <showvideos default="true">true</showvideos>
         <usetags default="true">true</usetags>
@@ -243,8 +243,8 @@
         <enableradiords default="true">true</enableradiords>
         <fps default="true">0</fps>
         <playminimized default="true">true</playminimized>
-        <scantime default="true">10</scantime>
-        <signalquality default="true">true</signalquality>
+        <scantime>59</scantime>
+        <signalquality>false</signalquality>
         <startlast default="true">0</startlast>
         <trafficadvisory default="true">false</trafficadvisory>
         <trafficadvisoryvolume default="true">10</trafficadvisoryvolume>
@@ -288,7 +288,7 @@
         <airplayvideosupport default="true">true</airplayvideosupport>
         <airplayvolumecontrol default="true">true</airplayvolumecontrol>
         <devicename default="true">Kodi</devicename>
-        <esallinterfaces default="true">false</esallinterfaces>
+        <esallinterfaces>true</esallinterfaces>
         <escontinuousdelay default="true">25</escontinuousdelay>
         <esenabled default="true">true</esenabled>
         <esinitialdelay default="true">750</esinitialdelay>
@@ -301,9 +301,9 @@
         <upnprenderer default="true">false</upnprenderer>
         <upnpserver default="true">false</upnpserver>
         <useairplaypassword default="true">false</useairplaypassword>
-        <webserver default="true">false</webserver>
+        <webserver>true</webserver>
         <webserverpassword default="true"></webserverpassword>
-        <webserverport default="true">8080</webserverport>
+        <webserverport>8086</webserverport>
         <webserverusername default="true">kodi</webserverusername>
         <webskin default="true">webinterface.default</webskin>
         <zeroconf default="true">true</zeroconf>
@@ -418,7 +418,7 @@
         <currentlocation default="true">1</currentlocation>
     </weather>
     <window>
-        <height>1080</height>
+        <height>1057</height>
         <width>1920</width>
     </window>
     <viewstates>
@@ -636,6 +636,6 @@
     </defaultaudiosettings>
     <audio>
         <mute>false</mute>
-        <fvolumelevel>0.677777</fvolumelevel>
+        <fvolumelevel>0.777777</fvolumelevel>
     </audio>
 </settings>

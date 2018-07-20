@@ -12,7 +12,7 @@ xterm.termName: xterm-256-color
 ! -----------------------------------------------------------------------------
 URxvt*depth: 				            32
 !URxvt*foreground     : #ebdbb2 
-URxvt*background   	: [90]#171f27
+URxvt*background   	: [90]#1a1a1a
 !URxvt*cursorColor    	: #c5c8c6
 
 

@@ -114,13 +114,14 @@ bindsym $mod+Shift+minus move scratchpad
 # If there are multiple scratchpad windows, this command cycles through them.
 bindsym $mod+minus scratchpad show
 
-set $workspace1 "1:   Firefox"
+set $workspace1 "1:  vivaldi"
 set $workspace2 "2:   Kodi"
 set $workspace3 "3:   Terminal "
 set $workspace4 "4:   Files"
 set $workspace5 "5:   Media "
 set $workspace6 "6:   General "
 set $workspace7 "7:   Settings "
+set $workspace8 "8:   Steam "
 #set $workspace1 "1"
 #set $workspace2 "2"
 #set $workspace3 "3"
@@ -141,7 +142,7 @@ bindsym $mod+4 workspace $workspace4
 bindsym $mod+5 workspace $workspace5
 bindsym $mod+6 workspace $workspace6
 bindsym $mod+7 workspace $workspace7
-bindsym $mod+8 workspace 8
+bindsym $mod+8 workspace $workspace8
 bindsym $mod+9 workspace 9
 bindsym $mod+0 workspace 10
 
@@ -151,21 +152,26 @@ for_window [class="Spotify"] move to workspace $workspace5
 assign [class="Clementine"] $workspace5
 assign [class="Gedit"] $workspace6
 assign [class="mpv"] $workspace5
+assign [class= "vlc"] $workspace5
 for_window [class="mpv"] fullscreen
-assign [class="Nautilus"] $workspace4
+assign [class="Pcmanfm"] $workspace4
 assign [class="URxvt"] $workspace3
 assign [class="URxvt" instance="ncmpcpp"] $workspace3
 assign [class="URxvt" instance="tty-clock"]  $workspace3
 #assign [class="Termite"] $workspace3
 #assign [class="Termite" instance="ncmpcpp"] $workspace3
 #assign [class="Termite" instance="tty-clock"]  $workspace3
-#assign [class="Kodi"]  $workspace2
+assign [class="Steam"]  $workspace8
 for_window [class="Kodi"] move to workspace $workspace2 
 for_window [class="Kodi"] fullscreen
 assign [class="Chromium"] $workspace1
 assign [class="Firefox"] $workspace1
+assign [class="Vivaldi-stable"] $workspace1
 assign [class="Lxappearance"]  $workspace7
 assign [class="Gvim"]  $workspace6
+assign [class="Audacious"] $workspace5
+
+
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $workspace1 
@@ -235,7 +241,8 @@ bar {
     strip_workspace_numbers yes
 
     colors {
-        background  #212121
+  #      background  #212121
+         background  #1a1a1a
         statusline  #DDDDDD
         separator   #666666
         # class             border  backgr. text
@@ -267,22 +274,22 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec blueman-applet
 exec compton 
 #exec compton -b -c --backend glx --vsync opengl-swc 
-exec feh --bg-scale /home/farzad/Pictures/dark-planet-minimalist-v2.png
+exec feh  --bg-fill /home/farzad/Pictures/wall.jpg
 exec xset s off
 exec --no-startup-id urxvt   -name ncmpcpp -e ncmpcpp -s playlist -S visualizer 
 exec --no-startup-id urxvt   -name tty-clock -e tty-clock -C 2 -c -d 20000000000 
 #exec --no-startup-id termite --name=ncmpcpp -e  'ncmpcpp  -s playlist -S visualizer'
 #exec --no-startup-id termite --name=tty-clock -e 'tty-clock -C 2 -c -d 20000000000' 
-exec --no-startup-id firefox
-exec --no-startup-id kodi
+#exec --no-startup-id  firefox 
+exec --no-startup-id  vivaldi-stable 
+exec --no-startup-id  kodi
 exec --no-startup-id imwheel 
-exec --no-startup-id nautilus
+exec --no-startup-id pcmanfm 
 exec xset -dpms
 exec xset s noblank
 exec redshift-gtk
 exec --no-startup-id mpd 
-exec --no-startup-id setxkbmap -model pc105 -layout us,ir -option 'grp:alt_shift_toggle'
-
+exec_always --no-startup-id setxkbmap -model pc105 -layout us,ir -option 'grp:alt_shift_toggle'
 exec --no-startup-id variety
 exec --no-startup-id $HOME/bin/modem-off.sh		
 #exec lxsession

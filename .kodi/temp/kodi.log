@@ -1,96 +1,159 @@
-﻿11:37:05.410 T:140117426047040  NOTICE: special://profile/ is mapped to: special://masterprofile/
-11:37:05.410 T:140117426047040  NOTICE: -----------------------------------------------------------------------
-11:37:05.410 T:140117426047040  NOTICE: Starting Kodi (17.6 Git:20180213-nogitfound). Platform: Linux x86 64-bit
-11:37:05.410 T:140117426047040  NOTICE: Using Release Kodi x64 build
-11:37:05.410 T:140117426047040  NOTICE: Kodi compiled Feb 13 2018 by GCC 7.3.0 for Linux x86 64-bit version 4.14.8 (265736)
-11:37:05.410 T:140117426047040  NOTICE: Running on Arch Linux 0.0, kernel: Linux x86 64-bit version 4.9.80-1-lts49
-11:37:05.410 T:140117426047040  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
-11:37:05.410 T:140117426047040  NOTICE: Host CPU: Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz, 8 cores available
-11:37:05.410 T:140117426047040  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
-11:37:05.410 T:140117426047040  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/kodi
-11:37:05.410 T:140117426047040  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/kodi/addons
-11:37:05.410 T:140117426047040  NOTICE: special://masterprofile/ is mapped to: /home/farzad/.kodi/userdata
-11:37:05.410 T:140117426047040  NOTICE: special://envhome/ is mapped to: /home/farzad
-11:37:05.410 T:140117426047040  NOTICE: special://home/ is mapped to: /home/farzad/.kodi
-11:37:05.410 T:140117426047040  NOTICE: special://temp/ is mapped to: /home/farzad/.kodi/temp
-11:37:05.410 T:140117426047040  NOTICE: special://logpath/ is mapped to: /home/farzad/.kodi/temp
-11:37:05.410 T:140117426047040  NOTICE: The executable running is: /usr/lib/kodi/kodi.bin
-11:37:05.410 T:140117426047040  NOTICE: Local hostname: archlinux
-11:37:05.410 T:140117426047040  NOTICE: Log File is located: /home/farzad/.kodi/temp//kodi.log
-11:37:05.410 T:140117426047040  NOTICE: -----------------------------------------------------------------------
-11:37:05.412 T:140117426047040   ERROR: DBus: Error org.freedesktop.DBus.Error.ServiceUnknown - The name org.freedesktop.UPower was not provided by any .service files
-11:37:05.454 T:140117426047040  NOTICE: load settings...
-11:37:08.183 T:140117426047040  NOTICE: Found 1 Lists of Devices
-11:37:08.183 T:140117426047040  NOTICE: Enumerated PULSE devices:
-11:37:08.183 T:140117426047040  NOTICE:     Device 1
-11:37:08.183 T:140117426047040  NOTICE:         m_deviceName      : Default
-11:37:08.183 T:140117426047040  NOTICE:         m_displayName     : Default
-11:37:08.183 T:140117426047040  NOTICE:         m_displayNameExtra: Default Output Device (PULSEAUDIO)
-11:37:08.183 T:140117426047040  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-11:37:08.183 T:140117426047040  NOTICE:         m_channels        : FL,FR
-11:37:08.183 T:140117426047040  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
-11:37:08.184 T:140117426047040  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
-11:37:08.184 T:140117426047040  NOTICE:         m_streamTypes     : No passthrough capabilities
-11:37:08.184 T:140117426047040  NOTICE:     Device 2
-11:37:08.184 T:140117426047040  NOTICE:         m_deviceName      : alsa_output.pci-0000_01_00.1.hdmi-stereo-extra1
-11:37:08.184 T:140117426047040  NOTICE:         m_displayName     : GM204 High Definition Audio Controller Digital Stereo (HDMI 2)
-11:37:08.184 T:140117426047040  NOTICE:         m_displayNameExtra: HDMI / DisplayPort 2 (PULSEAUDIO)
-11:37:08.184 T:140117426047040  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-11:37:08.184 T:140117426047040  NOTICE:         m_channels        : FL,FR
-11:37:08.184 T:140117426047040  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
-11:37:08.184 T:140117426047040  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
-11:37:08.184 T:140117426047040  NOTICE:         m_streamTypes     : No passthrough capabilities
-11:37:08.184 T:140117426047040  NOTICE:     Device 3
-11:37:08.184 T:140117426047040  NOTICE:         m_deviceName      : alsa_output.pci-0000_02_00.0.analog-stereo
-11:37:08.184 T:140117426047040  NOTICE:         m_displayName     : Sound Core3D [Sound Blaster Recon3D / Z-Series] (SB1570 SB Audigy Fx) Analog Stereo
-11:37:08.184 T:140117426047040  NOTICE:         m_displayNameExtra: Line Out (PULSEAUDIO)
-11:37:08.184 T:140117426047040  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-11:37:08.184 T:140117426047040  NOTICE:         m_channels        : FL,FR
-11:37:08.184 T:140117426047040  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
-11:37:08.184 T:140117426047040  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
-11:37:08.184 T:140117426047040  NOTICE:         m_streamTypes     : No passthrough capabilities
-11:37:08.186 T:140117426047040  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
-11:37:08.186 T:140117426047040  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
-11:37:08.186 T:140117426047040  NOTICE: Default Video Player: VideoPlayer
-11:37:08.186 T:140117426047040  NOTICE: Default Audio Player: paplayer
-11:37:08.187 T:140117426047040  NOTICE: Disabled debug logging due to GUI setting. Level 0.
-11:37:08.187 T:140117426047040  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
-11:37:08.187 T:140117426047040  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
-11:37:08.187 T:140117426047040  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
-11:37:08.187 T:140117426047040  NOTICE: Loaded playercorefactory configuration
-11:37:08.187 T:140117426047040  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
-11:37:08.187 T:140117426047040  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
-11:37:08.193 T:140117426047040  NOTICE: Running database version Addons27
-11:37:08.217 T:140117426047040  NOTICE: ADDONS: Using repository repository.xbmc.org
-11:37:08.221 T:140116969854720  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
-11:37:08.279 T:140117426047040  NOTICE: Checking resolution 15
-11:37:08.364 T:140117426047040  NOTICE: Using visual 0x28
-11:37:08.620 T:140117426047040  NOTICE: Previous line repeats 1 times.
-11:37:08.620 T:140117426047040  NOTICE: GL_VENDOR = NVIDIA Corporation
-11:37:08.620 T:140117426047040  NOTICE: GL_RENDERER = GeForce GTX 970/PCIe/SSE2
-11:37:08.620 T:140117426047040  NOTICE: GL_VERSION = 4.6.0 NVIDIA 390.25
-11:37:08.620 T:140117426047040  NOTICE: GL_SHADING_LANGUAGE_VERSION = 4.60 NVIDIA
-11:37:08.620 T:140117426047040  NOTICE: GL_GPU_MEMORY_INFO_TOTAL_AVAILABLE_MEMORY_NVX = 4194304
-11:37:08.620 T:140117426047040  NOTICE: GL_GPU_MEMORY_INFO_DEDICATED_VIDMEM_NVX = 4194304
-11:37:08.620 T:140117426047040  NOTICE: GL_EXTENSIONS = GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
-11:37:08.731 T:140117426047040   ERROR: Unable to load libcec.so.4, reason: libcec.so.4: cannot open shared object file: No such file or directory
-11:37:08.746 T:140116988942080  NOTICE: Running database version Addons27
-11:37:08.747 T:140116988942080  NOTICE: Running database version ViewModes6
-11:37:08.747 T:140116988942080  NOTICE: Running database version Textures13
-11:37:08.747 T:140116988942080  NOTICE: Running database version MyMusic60
-11:37:08.749 T:140116988942080  NOTICE: Running database version MyVideos107
-11:37:08.749 T:140116988942080  NOTICE: Running database version TV29
-11:37:08.749 T:140116988942080  NOTICE: Running database version Epg11
-11:37:08.750 T:140117426047040  NOTICE: start dvd mediatype detection
-11:37:08.835 T:140117426047040 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
-11:37:08.880 T:140117426047040  NOTICE: initialize done
-11:37:08.880 T:140117426047040  NOTICE: Running the application...
-11:37:08.881 T:140117426047040  NOTICE: starting zeroconf publishing
-11:37:08.881 T:140117426047040  NOTICE: starting upnp client
-11:37:08.881 T:140115674371840  NOTICE: ES: Starting UDP Event server on port 9777
-11:37:08.881 T:140115674371840  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
-11:37:08.882 T:140117426047040   ERROR: CWinSystemX11::XErrorHandler: BadValue (integer parameter out of range for operation), type:0, serial:143, error_code:2, request_code:12 minor_code:0
-11:37:08.884 T:140117426047040   ERROR: GetCharacter: Unable to cache character (out of memory?)
-11:37:08.909 T:140116070631168   ERROR: Previous line repeats 3 times.
-11:37:08.909 T:140116070631168  NOTICE: PVRManager - stopping
-11:37:09.071 T:140115271833344  NOTICE: Start - EPG thread started
+﻿16:53:50.675 T:139768965845248  NOTICE: special://profile/ is mapped to: special://masterprofile/
+16:53:50.675 T:139768965845248  NOTICE: -----------------------------------------------------------------------
+16:53:50.675 T:139768965845248  NOTICE: Starting Kodi (17.6 Git:20180703-nogitfound). Platform: Linux x86 64-bit
+16:53:50.675 T:139768965845248  NOTICE: Using Release Kodi x64 build
+16:53:50.675 T:139768965845248  NOTICE: Kodi compiled Jul  3 2018 by GCC 8.1.1 for Linux x86 64-bit version 4.16.1 (266241)
+16:53:50.675 T:139768965845248  NOTICE: Running on Arch Linux 0.0, kernel: Linux x86 64-bit version 4.9.111-1-lts49
+16:53:50.675 T:139768965845248  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+16:53:50.675 T:139768965845248  NOTICE: Host CPU: Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz, 8 cores available
+16:53:50.675 T:139768965845248  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+16:53:50.675 T:139768965845248  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/kodi
+16:53:50.675 T:139768965845248  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/kodi/addons
+16:53:50.675 T:139768965845248  NOTICE: special://masterprofile/ is mapped to: /home/farzad/.kodi/userdata
+16:53:50.675 T:139768965845248  NOTICE: special://envhome/ is mapped to: /home/farzad
+16:53:50.675 T:139768965845248  NOTICE: special://home/ is mapped to: /home/farzad/.kodi
+16:53:50.675 T:139768965845248  NOTICE: special://temp/ is mapped to: /home/farzad/.kodi/temp
+16:53:50.675 T:139768965845248  NOTICE: special://logpath/ is mapped to: /home/farzad/.kodi/temp
+16:53:50.675 T:139768965845248  NOTICE: The executable running is: /usr/lib/kodi/kodi.bin
+16:53:50.675 T:139768965845248  NOTICE: Local hostname: archlinux
+16:53:50.675 T:139768965845248  NOTICE: Log File is located: /home/farzad/.kodi/temp//kodi.log
+16:53:50.675 T:139768965845248  NOTICE: -----------------------------------------------------------------------
+16:53:50.696 T:139768965845248  NOTICE: load settings...
+16:53:50.715 T:139768965845248  NOTICE: Found 1 Lists of Devices
+16:53:50.715 T:139768965845248  NOTICE: Enumerated PULSE devices:
+16:53:50.715 T:139768965845248  NOTICE:     Device 1
+16:53:50.715 T:139768965845248  NOTICE:         m_deviceName      : Default
+16:53:50.715 T:139768965845248  NOTICE:         m_displayName     : Default
+16:53:50.715 T:139768965845248  NOTICE:         m_displayNameExtra: Default Output Device (PULSEAUDIO)
+16:53:50.715 T:139768965845248  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+16:53:50.715 T:139768965845248  NOTICE:         m_channels        : FL,FR
+16:53:50.715 T:139768965845248  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+16:53:50.715 T:139768965845248  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+16:53:50.715 T:139768965845248  NOTICE:         m_streamTypes     : No passthrough capabilities
+16:53:50.715 T:139768965845248  NOTICE:     Device 2
+16:53:50.715 T:139768965845248  NOTICE:         m_deviceName      : alsa_output.pci-0000_01_00.1.hdmi-stereo-extra1
+16:53:50.715 T:139768965845248  NOTICE:         m_displayName     : GM204 High Definition Audio Controller Digital Stereo (HDMI 2)
+16:53:50.715 T:139768965845248  NOTICE:         m_displayNameExtra: HDMI / DisplayPort 2 (PULSEAUDIO)
+16:53:50.715 T:139768965845248  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+16:53:50.715 T:139768965845248  NOTICE:         m_channels        : FL,FR
+16:53:50.715 T:139768965845248  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+16:53:50.715 T:139768965845248  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+16:53:50.715 T:139768965845248  NOTICE:         m_streamTypes     : No passthrough capabilities
+16:53:50.715 T:139768965845248  NOTICE:     Device 3
+16:53:50.715 T:139768965845248  NOTICE:         m_deviceName      : alsa_output.pci-0000_02_00.0.analog-stereo
+16:53:50.715 T:139768965845248  NOTICE:         m_displayName     : Sound Core3D [Sound Blaster Recon3D / Z-Series] (SB1570 SB Audigy Fx) Analog Stereo
+16:53:50.715 T:139768965845248  NOTICE:         m_displayNameExtra: Line Out (PULSEAUDIO)
+16:53:50.715 T:139768965845248  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+16:53:50.715 T:139768965845248  NOTICE:         m_channels        : FL,FR
+16:53:50.715 T:139768965845248  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+16:53:50.715 T:139768965845248  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+16:53:50.715 T:139768965845248  NOTICE:         m_streamTypes     : No passthrough capabilities
+16:53:50.716 T:139768965845248  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+16:53:50.716 T:139768965845248  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+16:53:50.716 T:139768965845248  NOTICE: Default Video Player: VideoPlayer
+16:53:50.716 T:139768965845248  NOTICE: Default Audio Player: paplayer
+16:53:50.716 T:139768965845248  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+16:53:50.716 T:139768965845248  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+16:53:50.716 T:139768965845248  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+16:53:50.728 T:139768965845248  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+16:53:50.728 T:139768965845248  NOTICE: Loaded playercorefactory configuration
+16:53:50.728 T:139768965845248  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+16:53:50.728 T:139768965845248  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+16:53:50.737 T:139768965845248  NOTICE: Running database version Addons27
+16:53:50.946 T:139768965845248  NOTICE: ADDONS: Using repository repository.xbmc.org
+16:53:50.954 T:139768425662208  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
+16:53:51.085 T:139768965845248  NOTICE: Checking resolution 15
+16:53:51.183 T:139768965845248  NOTICE: Using visual 0x28
+16:53:51.314 T:139768965845248  NOTICE: Previous line repeats 1 times.
+16:53:51.314 T:139768965845248  NOTICE: GL_VENDOR = NVIDIA Corporation
+16:53:51.314 T:139768965845248  NOTICE: GL_RENDERER = GeForce GTX 970/PCIe/SSE2
+16:53:51.314 T:139768965845248  NOTICE: GL_VERSION = 4.6.0 NVIDIA 396.24.02
+16:53:51.314 T:139768965845248  NOTICE: GL_SHADING_LANGUAGE_VERSION = 4.60 NVIDIA
+16:53:51.314 T:139768965845248  NOTICE: GL_GPU_MEMORY_INFO_TOTAL_AVAILABLE_MEMORY_NVX = 4194304
+16:53:51.314 T:139768965845248  NOTICE: GL_GPU_MEMORY_INFO_DEDICATED_VIDMEM_NVX = 4194304
+16:53:51.314 T:139768965845248  NOTICE: GL_EXTENSIONS = GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+16:53:51.506 T:139768511973120  NOTICE: Running database version Addons27
+16:53:51.516 T:139768511973120  NOTICE: Running database version ViewModes6
+16:53:51.522 T:139768511973120  NOTICE: Running database version Textures13
+16:53:51.523 T:139768511973120  NOTICE: Running database version MyMusic60
+16:53:51.526 T:139768511973120  NOTICE: Running database version MyVideos107
+16:53:51.539 T:139768511973120  NOTICE: Running database version TV29
+16:53:51.545 T:139768511973120  NOTICE: Running database version Epg11
+16:53:51.546 T:139768965845248  NOTICE: start dvd mediatype detection
+16:53:51.637 T:139768965845248 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+16:53:51.658 T:139768965845248  NOTICE: initialize done
+16:53:51.658 T:139768965845248  NOTICE: Running the application...
+16:53:51.659 T:139768965845248  NOTICE: starting zeroconf publishing
+16:53:51.659 T:139768965845248   ERROR: CWebServer[8086]: Failed to start
+16:53:51.659 T:139768965845248  NOTICE: starting upnp client
+16:53:51.660 T:139766917998336  NOTICE: ES: Starting UDP Event server on port 9777
+16:53:51.660 T:139768965845248   ERROR: JSONRPC Server: Failed to connect to sdpd
+16:53:51.660 T:139768965845248   ERROR: JSONRPC Server: Failed to bind ipv4 serversocket
+16:53:51.660 T:139766917998336  NOTICE: UDP: Listening on port 9777 (ipv6 : true)
+16:53:51.660 T:139768965845248   ERROR: CWinSystemX11::XErrorHandler: BadValue (integer parameter out of range for operation), type:0, serial:144, error_code:2, request_code:12 minor_code:0
+16:53:51.661 T:139768965845248   ERROR: GetCharacter: Unable to cache character (out of memory?)
+16:53:51.898 T:139766683133696   ERROR: Previous line repeats 3 times.
+16:53:51.898 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:51.898 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:51.946 T:139767539914496  NOTICE: script.grab.fanart: Grab Fanart Service Started
+16:53:51.989 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:51.989 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:52.076 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:52.076 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:52.077 T:139766683133696   ERROR: CPVRChannelGroups - Load - failed to load channel groups
+16:53:52.077 T:139766683133696   ERROR: PVRManager - Process - failed to load PVR data, retrying
+16:53:53.290 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:53.290 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:53.402 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:53.402 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:53.510 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:53.510 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:53.513 T:139766683133696   ERROR: CPVRChannelGroups - Load - failed to load channel groups
+16:53:53.513 T:139766683133696   ERROR: PVRManager - Process - failed to load PVR data, retrying
+16:53:54.724 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:54.724 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:54.823 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:54.823 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:54.919 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:54.919 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:54.922 T:139766683133696   ERROR: CPVRChannelGroups - Load - failed to load channel groups
+16:53:54.922 T:139766683133696   ERROR: PVRManager - Process - failed to load PVR data, retrying
+16:53:55.093 T:139768965845248  NOTICE: Storing total System Uptime
+16:53:55.093 T:139768965845248  NOTICE: Saving settings
+16:53:55.094 T:139768965845248  NOTICE: Saving skin settings
+16:53:55.094 T:139768965845248  NOTICE: stop all
+16:53:55.094 T:139768965845248  NOTICE: stop player
+16:53:55.094 T:139768965845248  NOTICE: ES: Stopping event server
+16:53:55.094 T:139768965845248  NOTICE: stopping upnp
+16:53:55.245 T:139768965845248  NOTICE: stopping zeroconf publishing
+16:53:55.664 T:139766917998336  NOTICE: ES: UDP Event server stopped
+16:53:55.664 T:139768965845248  NOTICE: stop dvd detect media
+16:53:55.987 T:139768965845248  NOTICE: clean cached files!
+16:53:56.132 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:56.132 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:56.213 T:139768965845248  NOTICE: closing down remote control service
+16:53:56.213 T:139768965845248  NOTICE: stopped
+16:53:56.244 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:56.244 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:56.352 T:139766683133696   ERROR: SQL: [TV29.db] Abort due to constraint violation
+                                            Query: INSERT INTO channels (iUniqueId, bIsRadio, bIsHidden, bIsUserSetIcon, bIsUserSetName, bIsLocked, sIconPath, sChannelName, bIsVirtual, bEPGEnabled, sEPGScraper, iLastWatched, iClientId, idEpg) VALUES (108293087, 0, 0, 0, 0, 0, 'http://127.0.0.1:9981/imagecache/2640', 'RSE Balkans 222', 0, 1, 'client', 0, 2025648334, -1)
+16:53:56.352 T:139766683133696   ERROR: CommitInsertQueries - failed to execute queries
+16:53:56.354 T:139766683133696   ERROR: CPVRChannelGroups - Load - failed to load channel groups
+16:53:56.354 T:139766683133696   ERROR: PVRManager - Process - failed to load PVR data, retrying
+16:53:56.413 T:139768965845248  NOTICE: destroy
+16:53:56.413 T:139768965845248  NOTICE: unload skin
+16:53:56.418 T:139768965845248  NOTICE: unload sections
+16:53:56.419 T:139768965845248  NOTICE: special://profile/ is mapped to: special://masterprofile/
+16:53:56.419 T:139768965845248  NOTICE: PVRManager - stopping
+16:53:57.699 T:139768965845248  NOTICE: application stopped...
